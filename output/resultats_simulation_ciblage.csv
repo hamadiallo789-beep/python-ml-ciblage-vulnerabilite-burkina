@@ -1,0 +1,4 @@
+strategie,vulnerables_couverts,total_vulnerables,taux_couverture,erreur_inclusion,erreur_exclusion
+Aleatoire,26,98,0.265,0.683,0.735
+Proxy simple (toit),42,98,0.429,0.488,0.571
+Modele ML (Regression Logistique),67,98,0.684,0.183,0.316
