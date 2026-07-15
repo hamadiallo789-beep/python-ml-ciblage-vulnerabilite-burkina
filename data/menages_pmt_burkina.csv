@@ -1,0 +1,1101 @@
+id_menage,region,milieu,taille_menage,nb_enfants_moins_15,ratio_dependance,sexe_chef_menage,age_chef_menage,niveau_education_chef,materiau_toit,materiau_mur,source_eau_potable,possede_terre,superficie_terre_ha,nb_bovins,nb_petits_ruminants,nb_volailles,possede_telephone,possede_radio,possede_velo,possede_moto,distance_marche_km,score_consommation_alimentaire,depenses_mensuelles_pc_fcfa,vulnerable
+1,Centre-Nord,Rural,8,4,1.0,Femme,51,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,1.84,0,6,7,1,0,1,0,12.7,38,30242.0,0
+2,Est,Rural,8,4,1.0,Homme,42,Aucun,Dur (beton/tuile),Banco (terre),Puits protege/Forage,0,0.0,0,1,4,1,1,0,0,6.7,54,24014.0,0
+3,Centre-Nord,Urbain,8,3,0.6,Homme,51,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.35,0,5,7,1,1,0,1,7.0,46,17176.0,0
+4,Nord,Urbain,5,3,1.5,Homme,25,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,3.34,5,3,2,1,0,1,0,3.8,84,27923.0,0
+5,Sahel,Rural,8,5,1.67,Homme,34,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.98,2,6,2,1,1,1,0,8.2,59,25914.0,1
+6,Boucle du Mouhoun,Urbain,5,3,1.5,Homme,46,Aucun,Tole,Brique de ciment,Puits non protege,1,0.86,0,4,2,1,1,0,0,4.7,49,24562.0,0
+7,Centre-Nord,Rural,6,3,1.0,Homme,18,Primaire,Tole,Banco (terre),Puits non protege,1,0.57,2,2,8,1,1,1,1,11.9,81,26195.0,0
+8,Centre-Nord,Rural,11,6,1.2,Femme,41,Primaire,Dur (beton/tuile),Brique de ciment,Puits protege/Forage,0,0.0,0,5,4,1,1,1,0,9.9,46,27649.0,0
+9,Sahel,Urbain,7,4,1.33,Femme,40,Secondaire,Tole,Brique de ciment,Puits non protege,1,0.61,1,3,5,1,0,1,1,4.8,61,40117.0,0
+10,Est,Rural,11,6,1.2,Femme,41,Superieur,Tole,Brique de ciment,Puits non protege,1,0.44,2,7,9,1,1,1,1,9.0,63,20681.0,0
+11,Est,Rural,8,4,1.0,Homme,38,Aucun,Tole,Brique de ciment,Robinet/Eau courante,1,0.63,1,1,5,1,0,1,0,10.5,58,15126.0,0
+12,Boucle du Mouhoun,Rural,9,4,0.8,Homme,32,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,1,1.98,0,5,4,1,1,1,0,9.7,50,36501.0,0
+13,Nord,Rural,4,2,1.0,Homme,21,Aucun,Tole,Banco (terre),Puits protege/Forage,1,5.78,0,3,4,0,0,1,1,7.6,65,39556.0,0
+14,Centre-Nord,Urbain,5,3,1.5,Homme,47,Secondaire,Tole,Banco (terre),Robinet/Eau courante,1,0.91,1,5,5,1,1,1,1,6.6,42,31605.0,0
+15,Est,Urbain,9,4,0.8,Homme,41,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,3.31,2,6,0,0,1,1,1,7.5,70,16116.0,0
+16,Sahel,Rural,5,3,1.5,Femme,27,Aucun,Tole,Banco (terre),Puits non protege,0,0.0,2,4,5,1,1,0,0,10.8,47,25358.0,1
+17,Nord,Rural,5,3,1.5,Homme,46,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,6,6,0,1,1,0,14.2,73,30585.0,1
+18,Sahel,Urbain,6,3,1.0,Homme,41,Primaire,Chaume/Paille,Dur,Puits protege/Forage,1,0.93,0,4,3,1,0,0,0,3.4,69,16635.0,0
+19,Centre-Nord,Rural,10,4,0.67,Homme,39,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,3.0,0,0,1,1,0,1,0,7.3,61,19072.0,1
+20,Nord,Urbain,4,2,1.0,Homme,18,Secondaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,2,9,0,0,1,1,13.4,51,25186.0,0
+21,Centre-Nord,Urbain,7,2,0.4,Homme,54,Primaire,Tole,Dur,Robinet/Eau courante,1,0.82,2,2,8,1,1,1,0,2.8,70,45813.0,0
+22,Est,Rural,2,1,1.0,Homme,29,Aucun,Chaume/Paille,Brique de ciment,Puits non protege,1,2.46,0,4,7,0,1,1,0,8.5,61,29772.0,0
+23,Boucle du Mouhoun,Urbain,9,5,1.25,Homme,46,Secondaire,Tole,Brique de ciment,Puits non protege,1,1.33,3,5,8,1,0,1,0,0.8,3,20793.0,1
+24,Boucle du Mouhoun,Rural,8,4,1.0,Homme,34,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.92,0,3,3,1,1,1,1,5.9,39,24569.0,0
+25,Centre-Nord,Rural,7,4,1.33,Femme,40,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,3.44,2,12,12,1,0,0,0,8.0,55,19934.0,1
+26,Sahel,Rural,7,4,1.33,Homme,60,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,0.85,0,5,5,1,1,1,0,7.9,56,22350.0,0
+27,Est,Rural,2,1,1.0,Homme,52,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,1.07,0,3,3,1,1,0,0,8.6,63,37236.0,1
+28,Sahel,Urbain,5,2,0.67,Homme,60,Primaire,Tole,Brique de ciment,Puits non protege,0,0.0,3,4,7,1,0,0,0,15.6,77,11339.0,0
+29,Sahel,Urbain,5,2,0.67,Homme,49,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,5.38,0,6,10,1,0,1,0,1.1,61,48617.0,0
+30,Nord,Urbain,7,4,1.33,Homme,50,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,2.75,0,5,4,1,1,1,1,5.4,19,72051.0,0
+31,Centre-Nord,Urbain,12,5,0.71,Homme,22,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,1,1.84,0,6,5,0,0,1,1,5.0,55,28945.0,1
+32,Boucle du Mouhoun,Rural,6,3,1.0,Homme,41,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,2.73,3,4,10,1,0,0,1,21.2,71,18509.0,0
+33,Est,Rural,7,3,0.75,Homme,42,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.93,0,5,5,1,0,0,0,13.5,54,45409.0,1
+34,Est,Urbain,11,5,0.83,Homme,61,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,1,1.53,0,3,6,0,1,0,0,3.8,55,30488.0,1
+35,Est,Urbain,9,4,0.8,Homme,38,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,0.35,0,2,3,1,1,1,1,13.2,44,21233.0,0
+36,Sahel,Rural,9,5,1.25,Homme,48,Primaire,Tole,Banco (terre),Puits non protege,0,0.0,0,2,4,1,1,1,0,7.5,67,17373.0,1
+37,Sahel,Rural,8,3,0.6,Femme,48,Secondaire,Tole,Brique de ciment,Puits protege/Forage,0,0.0,0,4,4,1,1,1,1,14.1,46,22412.0,0
+38,Est,Rural,11,6,1.2,Homme,60,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,1.71,0,7,7,1,1,1,0,18.6,61,29339.0,1
+39,Sahel,Rural,4,2,1.0,Homme,43,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.12,0,3,9,1,1,1,0,9.9,59,40255.0,0
+40,Nord,Urbain,6,3,1.0,Homme,56,Secondaire,Tole,Brique de ciment,Puits non protege,1,1.21,0,2,9,0,1,1,0,2.3,53,30573.0,0
+41,Est,Rural,9,4,0.8,Homme,23,Secondaire,Tole,Brique de ciment,Robinet/Eau courante,1,1.68,3,4,3,1,0,0,1,5.0,60,33003.0,0
+42,Centre-Nord,Urbain,8,5,1.67,Homme,24,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,1.73,0,0,7,1,0,1,1,6.1,55,23152.0,1
+43,Centre-Nord,Urbain,10,6,1.5,Homme,18,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.43,2,6,2,1,1,1,0,9.8,72,39526.0,1
+44,Est,Urbain,4,2,1.0,Homme,55,Aucun,Tole,Banco (terre),Puits protege/Forage,1,2.5,3,6,7,0,1,0,0,26.7,63,24513.0,1
+45,Centre-Nord,Rural,6,4,2.0,Femme,54,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,4.89,0,7,8,1,1,0,1,16.3,69,61519.0,0
+46,Centre-Nord,Rural,13,6,0.86,Homme,57,Primaire,Tole,Brique de ciment,Puits non protege,1,2.71,2,3,6,1,1,1,1,9.6,40,20055.0,0
+47,Est,Urbain,6,3,1.0,Femme,36,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.54,5,1,9,1,0,1,0,2.2,39,32136.0,0
+48,Est,Urbain,8,4,1.0,Femme,38,Aucun,Chaume/Paille,Dur,Puits protege/Forage,1,4.17,1,4,7,1,0,1,1,4.9,53,72058.0,0
+49,Nord,Rural,9,4,0.8,Homme,43,Primaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,0.93,3,2,4,0,1,0,1,19.4,64,,0
+50,Sahel,Urbain,6,3,1.0,Homme,64,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,0,0.0,0,5,8,1,0,1,0,19.3,61,37625.0,0
+51,Sahel,Rural,5,2,0.67,Homme,67,Primaire,Tole,Brique de ciment,Puits non protege,1,1.41,5,2,7,1,1,1,0,7.5,40,30748.0,0
+52,Sahel,Urbain,8,4,1.0,Femme,55,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,4.2,3,5,6,0,0,1,0,4.6,64,27550.0,1
+53,Centre-Nord,Rural,6,3,1.0,Homme,49,Aucun,Tole,Banco (terre),Puits non protege,1,0.65,3,3,6,1,1,0,1,17.8,42,24879.0,1
+54,Nord,Rural,3,2,2.0,Homme,62,Aucun,Chaume/Paille,Brique de ciment,Puits non protege,1,0.65,0,0,7,0,0,1,0,17.3,63,20893.0,1
+55,Centre-Nord,Rural,9,4,0.8,Homme,42,Secondaire,Tole,Banco (terre),Robinet/Eau courante,1,3.53,1,4,7,1,1,1,1,7.6,57,13479.0,0
+56,Centre-Nord,Rural,9,6,2.0,Femme,40,Aucun,Dur (beton/tuile),Brique de ciment,Puits non protege,1,2.15,0,4,8,1,0,1,1,13.0,48,35892.0,0
+57,Est,Rural,5,2,0.67,Homme,43,Primaire,Tole,Brique de ciment,Puits non protege,1,3.73,0,3,4,1,0,0,1,7.8,43,13466.0,0
+58,Nord,Rural,10,5,1.0,Homme,32,Primaire,Tole,Banco (terre),Puits non protege,1,0.71,0,9,9,1,1,0,0,15.5,54,36067.0,0
+59,Sahel,Rural,12,5,0.71,Homme,43,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,0.83,1,8,3,1,0,0,0,9.6,53,23408.0,0
+60,Sahel,Urbain,8,3,0.6,Homme,30,Aucun,Tole,Brique de ciment,Puits protege/Forage,0,0.0,2,2,6,0,0,1,1,4.3,35,17501.0,0
+61,Nord,Rural,15,6,0.67,Femme,58,Aucun,Dur (beton/tuile),Banco (terre),Puits non protege,0,0.0,0,2,8,0,1,1,0,13.5,62,50643.0,1
+62,Est,Urbain,8,4,1.0,Femme,52,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,1.79,0,6,4,1,0,1,1,5.9,71,14015.0,0
+63,Nord,Urbain,7,3,0.75,Homme,64,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.06,2,4,3,1,0,1,0,9.4,66,19935.0,0
+64,Centre-Nord,Rural,11,6,1.2,Homme,24,Primaire,Tole,Dur,Puits non protege,1,1.41,3,3,5,1,0,1,1,6.4,57,20792.0,0
+65,Nord,Rural,8,5,1.67,Femme,70,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.48,0,2,3,1,1,1,0,6.9,45,28776.0,1
+66,Nord,Urbain,11,5,0.83,Homme,25,Superieur,Tole,Banco (terre),Puits protege/Forage,1,2.58,2,8,8,1,0,0,0,5.2,54,20420.0,0
+67,Nord,Urbain,11,4,0.57,Homme,29,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,4.72,4,7,5,0,1,0,0,3.1,50,51936.0,0
+68,Est,Rural,7,3,0.75,Homme,37,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,3.17,0,13,6,1,1,1,1,8.0,54,14515.0,1
+69,Sahel,Urbain,6,2,0.5,Homme,62,Secondaire,Tole,Banco (terre),Robinet/Eau courante,1,0.2,0,7,7,0,0,1,0,5.3,67,169133.0,0
+70,Est,Rural,7,3,0.75,Femme,48,Primaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,3,6,4,0,1,0,0,7.4,50,16706.0,0
+71,Sahel,Rural,3,2,2.0,Homme,42,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,0.76,0,2,7,1,1,1,1,19.1,23,101736.0,0
+72,Est,Urbain,8,4,1.0,Homme,35,Aucun,Tole,Brique de ciment,Puits non protege,1,2.95,1,6,4,1,1,0,1,2.9,65,43997.0,0
+73,Centre-Nord,Rural,7,3,0.75,Homme,27,Aucun,Tole,Banco (terre),Puits protege/Forage,1,4.28,2,7,12,1,1,1,1,9.1,58,25601.0,0
+74,Sahel,Urbain,4,2,1.0,Homme,60,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.49,0,1,5,1,1,1,0,5.2,54,29792.0,0
+75,Sahel,Rural,12,5,0.71,Femme,55,Aucun,Dur (beton/tuile),Banco (terre),Puits non protege,1,3.01,0,2,6,0,0,0,0,10.1,33,22687.0,1
+76,Est,Urbain,8,4,1.0,Homme,63,Secondaire,Chaume/Paille,Dur,Robinet/Eau courante,0,0.0,0,3,5,0,1,0,0,4.3,39,31451.0,0
+77,Est,Rural,8,5,1.67,Homme,50,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.37,0,7,8,1,0,1,1,14.1,41,19309.0,1
+78,Nord,Rural,4,2,1.0,Homme,18,Primaire,Tole,Brique de ciment,Puits non protege,1,0.92,0,1,4,1,1,1,1,14.5,43,37014.0,0
+79,Nord,Rural,9,5,1.25,Homme,29,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,1.23,0,5,8,1,1,0,1,7.5,44,29199.0,0
+80,Centre-Nord,Rural,11,7,1.75,Homme,51,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,1.8,0,7,5,0,1,1,0,15.1,33,17235.0,1
+81,Nord,Urbain,6,3,1.0,Homme,40,Aucun,Chaume/Paille,Dur,Puits non protege,0,0.0,5,3,5,0,1,1,1,3.4,86,32605.0,0
+82,Est,Rural,5,3,1.5,Homme,38,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,0,0.0,0,7,8,1,0,1,0,,76,31712.0,0
+83,Centre-Nord,Rural,5,3,1.5,Femme,31,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,1.38,6,4,5,0,0,1,0,9.6,56,19483.0,1
+84,Sahel,Rural,9,5,1.25,Homme,57,Primaire,Tole,Banco (terre),Robinet/Eau courante,0,0.0,0,3,7,1,0,0,0,7.2,51,22193.0,1
+85,Sahel,Rural,11,6,1.2,Homme,51,Aucun,Tole,Brique de ciment,Puits non protege,1,2.36,2,2,4,0,1,0,1,5.6,81,33881.0,1
+86,Sahel,Urbain,6,3,1.0,Homme,52,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.93,3,10,8,1,1,0,0,6.0,78,43951.0,0
+87,Centre-Nord,Rural,6,3,1.0,Homme,37,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,0.13,0,8,7,1,0,0,0,6.2,40,25235.0,1
+88,Est,Urbain,12,7,1.4,Homme,47,Primaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,0,0.0,0,4,4,0,1,0,1,14.3,56,40896.0,1
+89,Sahel,Rural,5,2,0.67,Femme,28,Primaire,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,0,6,3,1,0,1,1,7.9,49,45487.0,1
+90,Nord,Urbain,5,3,1.5,Femme,43,Aucun,Tole,Dur,Puits protege/Forage,1,3.31,3,4,4,1,1,1,0,9.2,48,48362.0,0
+91,Sahel,Rural,5,2,0.67,Homme,18,Aucun,Tole,Brique de ciment,Robinet/Eau courante,1,1.91,0,5,3,1,0,0,0,12.8,49,32456.0,0
+92,Nord,Rural,2,1,1.0,Femme,25,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,1.17,0,7,3,1,1,1,1,7.2,51,17930.0,1
+93,Est,Urbain,5,2,0.67,Homme,41,Primaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,1,4,5,1,1,1,0,3.9,55,40178.0,0
+94,Est,Urbain,4,2,1.0,Homme,76,Superieur,Tole,Brique de ciment,Puits protege/Forage,0,0.0,1,5,10,1,1,1,0,3.9,55,24683.0,0
+95,Est,Urbain,7,4,1.33,Homme,22,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,0,0.0,2,7,3,0,1,1,1,6.6,75,33790.0,0
+96,Nord,Rural,9,4,0.8,Homme,29,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.76,3,3,10,1,1,0,1,28.3,39,20271.0,1
+97,Est,Rural,8,4,1.0,Homme,48,Primaire,Tole,Brique de ciment,Puits non protege,0,0.0,2,4,5,0,1,1,0,10.4,67,20536.0,1
+98,Sahel,Urbain,6,3,1.0,Femme,68,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.57,0,1,4,1,0,0,1,3.7,35,19621.0,1
+99,Sahel,Rural,4,2,1.0,Homme,48,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,0.58,0,8,3,1,0,1,1,10.8,56,14820.0,1
+100,Boucle du Mouhoun,Urbain,8,3,0.6,Homme,54,Superieur,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,0.22,2,1,4,0,0,0,0,2.2,69,20660.0,0
+101,Boucle du Mouhoun,Rural,7,4,1.33,Homme,41,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.32,2,3,1,0,1,1,1,7.0,61,16902.0,0
+102,Nord,Rural,4,2,1.0,Femme,38,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,0,0.0,3,6,8,1,1,0,1,18.4,47,34711.0,1
+103,Sahel,Urbain,9,4,0.8,Homme,46,Aucun,Tole,Brique de ciment,Robinet/Eau courante,1,3.95,0,7,6,1,0,1,0,4.6,57,16661.0,0
+104,Boucle du Mouhoun,Urbain,7,3,0.75,Femme,36,Secondaire,Tole,Dur,Puits protege/Forage,1,2.33,3,1,5,1,0,1,0,2.9,78,19906.0,0
+105,Centre-Nord,Rural,8,4,1.0,Femme,54,Superieur,Tole,Banco (terre),Puits protege/Forage,1,1.4,4,4,3,1,1,1,0,5.9,43,26942.0,0
+106,Centre-Nord,Rural,7,3,0.75,Homme,24,Secondaire,Tole,Brique de ciment,Puits non protege,1,5.45,0,3,8,1,1,0,1,9.3,61,60815.0,0
+107,Est,Rural,11,4,0.57,Homme,57,Aucun,Tole,Dur,Puits protege/Forage,0,0.0,1,5,4,1,1,0,1,6.0,67,19704.0,0
+108,Sahel,Rural,3,2,2.0,Homme,46,Secondaire,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,1.92,0,5,2,0,1,0,1,15.6,46,14444.0,1
+109,Sahel,Rural,10,4,0.67,Homme,42,Aucun,Chaume/Paille,Dur,Puits non protege,1,1.15,0,3,9,1,0,0,0,12.8,80,14908.0,1
+110,Boucle du Mouhoun,Rural,8,3,0.6,Homme,24,Primaire,Tole,Dur,Robinet/Eau courante,1,4.08,2,4,8,1,1,0,0,7.6,85,18264.0,0
+111,Est,Urbain,6,4,2.0,Homme,32,Aucun,Tole,Brique de ciment,Puits non protege,0,0.0,2,6,3,1,1,1,1,16.5,70,20019.0,1
+112,Sahel,Urbain,9,5,1.25,Homme,61,Primaire,Tole,Dur,Puits protege/Forage,1,0.76,0,6,3,1,1,1,0,3.9,70,75892.0,0
+113,Est,Rural,7,3,0.75,Homme,42,Aucun,Tole,Brique de ciment,Puits protege/Forage,0,0.0,2,4,3,1,0,1,1,8.6,24,,0
+114,Nord,Rural,7,4,1.33,Homme,49,Aucun,Tole,Banco (terre),Puits non protege,1,1.68,2,7,4,0,1,1,0,7.0,31,23347.0,1
+115,Sahel,Rural,5,3,1.5,Homme,34,Aucun,Chaume/Paille,Dur,Robinet/Eau courante,0,0.0,0,3,5,1,0,0,0,12.3,51,61931.0,1
+116,Centre-Nord,Rural,13,5,0.62,Homme,45,Aucun,Chaume/Paille,Brique de ciment,Puits non protege,1,0.75,0,3,6,0,0,1,1,6.2,41,20421.0,1
+117,Centre-Nord,Rural,8,3,0.6,Homme,27,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,0.87,0,5,5,1,0,0,1,7.7,62,22358.0,0
+118,Centre-Nord,Rural,8,5,1.67,Homme,46,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,1,0.91,1,6,9,1,1,1,0,7.3,6,21762.0,1
+119,Est,Urbain,9,5,1.25,Femme,50,Primaire,Dur (beton/tuile),Banco (terre),Puits non protege,1,1.39,2,5,10,0,1,1,0,6.4,62,42705.0,0
+120,Nord,Rural,7,5,2.5,Homme,49,Secondaire,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,0.59,3,6,3,0,0,0,1,5.7,49,26069.0,1
+121,Nord,Rural,12,5,0.71,Femme,33,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,3.63,0,3,2,0,0,1,0,8.9,43,53013.0,0
+122,Nord,Rural,4,3,3.0,Homme,41,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,0.32,0,5,6,1,0,1,1,15.6,83,32706.0,1
+123,Sahel,Urbain,11,5,0.83,Homme,52,Primaire,Tole,Banco (terre),Puits protege/Forage,1,4.16,6,7,4,1,1,1,1,2.0,47,40499.0,0
+124,Est,Urbain,8,5,1.67,Femme,42,Primaire,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,1,2,4,0,1,1,0,8.6,26,11882.0,1
+125,Sahel,Rural,6,4,2.0,Homme,41,Aucun,Tole,Dur,Robinet/Eau courante,1,0.7,2,4,2,1,1,1,1,13.8,59,12524.0,0
+126,Est,Urbain,8,3,0.6,Homme,70,Primaire,Dur (beton/tuile),Banco (terre),Puits non protege,0,0.0,1,3,4,1,1,1,0,4.7,58,12711.0,0
+127,Est,Rural,5,2,0.67,Homme,33,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.81,2,5,11,1,1,1,1,4.7,49,22189.0,0
+128,Sahel,Rural,6,3,1.0,Homme,59,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,2.69,0,6,4,1,1,1,0,12.4,90,13461.0,1
+129,Sahel,Urbain,7,4,1.33,Femme,30,Primaire,Tole,Brique de ciment,Puits protege/Forage,0,0.0,1,2,8,1,1,0,0,,55,47011.0,0
+130,Nord,Rural,6,2,0.5,Femme,54,Aucun,Tole,Brique de ciment,Robinet/Eau courante,1,8.79,0,5,4,0,1,1,0,19.7,68,24597.0,0
+131,Sahel,Rural,8,5,1.67,Homme,54,Primaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,2.22,5,5,7,1,1,0,0,9.7,57,35486.0,0
+132,Boucle du Mouhoun,Rural,4,2,1.0,Homme,38,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.33,0,4,6,1,1,1,1,5.2,72,21557.0,0
+133,Nord,Rural,10,5,1.0,Homme,29,Secondaire,Tole,Dur,Puits non protege,1,0.66,0,7,13,1,1,0,0,12.3,47,38994.0,0
+134,Est,Urbain,6,3,1.0,Femme,19,Aucun,Tole,Brique de ciment,Puits non protege,1,2.14,0,4,11,1,0,0,0,1.4,35,11111.0,1
+135,Nord,Rural,6,4,2.0,Homme,37,Primaire,Tole,Brique de ciment,Robinet/Eau courante,1,1.35,2,3,3,1,1,1,1,11.4,64,26318.0,0
+136,Sahel,Rural,6,2,0.5,Femme,52,Primaire,Tole,Banco (terre),Puits non protege,0,0.0,4,2,4,1,1,1,0,13.2,57,33702.0,0
+137,Boucle du Mouhoun,Rural,10,5,1.0,Homme,31,Aucun,Tole,Dur,Puits protege/Forage,1,1.94,0,5,7,1,1,1,0,15.8,65,35005.0,0
+138,Est,Rural,3,1,0.5,Homme,46,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,0,0.0,4,1,9,0,0,0,0,,42,23319.0,0
+139,Centre-Nord,Rural,8,5,1.67,Homme,26,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,1.18,1,4,5,1,1,1,1,6.5,60,12457.0,1
+140,Sahel,Rural,8,5,1.67,Homme,42,Primaire,Chaume/Paille,Dur,Puits protege/Forage,1,2.73,1,4,3,1,0,0,0,9.8,26,42408.0,1
+141,Est,Urbain,7,3,0.75,Homme,30,Secondaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.03,2,4,6,0,1,1,0,,44,22550.0,0
+142,Est,Rural,5,2,0.67,Homme,44,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,2.66,0,2,7,1,1,1,1,8.1,41,23449.0,0
+143,Boucle du Mouhoun,Rural,8,4,1.0,Homme,38,Primaire,Tole,Brique de ciment,Robinet/Eau courante,1,0.46,0,6,3,1,1,0,0,7.2,60,73031.0,0
+144,Nord,Rural,9,4,0.8,Homme,30,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.76,3,2,6,1,1,1,1,14.4,44,28098.0,0
+145,Est,Rural,5,3,1.5,Homme,36,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,3.45,4,2,0,0,1,0,0,17.7,30,21301.0,1
+146,Sahel,Rural,5,3,1.5,Homme,33,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.48,3,5,6,1,1,0,0,11.9,43,20734.0,1
+147,Est,Rural,9,4,0.8,Homme,28,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.54,0,4,7,1,0,1,0,13.6,62,35966.0,0
+148,Nord,Rural,8,5,1.67,Homme,59,Aucun,Dur (beton/tuile),Banco (terre),Puits non protege,1,0.42,0,2,6,0,1,1,0,9.8,54,18594.0,1
+149,Est,Urbain,6,3,1.0,Femme,40,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.66,2,1,4,1,1,1,0,5.5,40,33869.0,0
+150,Sahel,Urbain,7,3,0.75,Femme,18,Aucun,Tole,Dur,Puits protege/Forage,1,1.05,0,3,6,1,0,0,0,1.4,65,44161.0,0
+151,Centre-Nord,Rural,7,3,0.75,Homme,37,Primaire,Tole,Banco (terre),Puits non protege,1,0.7,4,5,9,1,1,0,0,10.9,77,25855.0,0
+152,Boucle du Mouhoun,Rural,5,2,0.67,Homme,57,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,1,1.76,0,4,2,1,0,0,1,13.1,67,41962.0,0
+153,Sahel,Rural,3,2,2.0,Homme,35,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,2,2,4,1,1,1,1,8.4,15,26083.0,0
+154,Nord,Rural,8,3,0.6,Homme,64,Secondaire,Dur (beton/tuile),Banco (terre),Puits non protege,1,0.86,1,2,5,0,1,1,0,8.6,56,19745.0,0
+155,Sahel,Rural,3,2,2.0,Femme,34,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,6,8,1,1,1,0,4.8,50,12720.0,1
+156,Nord,Urbain,11,5,0.83,Homme,52,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.38,0,7,11,1,0,1,1,4.7,19,30449.0,1
+157,Est,Urbain,4,2,1.0,Homme,58,Secondaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,2,6,3,1,1,0,0,10.5,31,30737.0,0
+158,Nord,Urbain,8,3,0.6,Homme,51,Secondaire,Tole,Banco (terre),Puits non protege,1,2.77,1,1,3,1,1,1,1,6.7,65,41839.0,0
+159,Centre-Nord,Rural,8,4,1.0,Homme,27,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.04,0,3,3,1,1,0,1,9.1,55,40064.0,0
+160,Centre-Nord,Urbain,5,2,0.67,Femme,33,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.88,0,6,6,1,1,1,0,2.1,53,68208.0,0
+161,Sahel,Rural,9,4,0.8,Homme,60,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.14,2,1,5,1,1,1,0,7.7,42,20713.0,0
+162,Boucle du Mouhoun,Rural,6,2,0.5,Femme,35,Aucun,Tole,Banco (terre),Puits protege/Forage,1,3.33,1,4,11,1,1,0,1,7.2,69,31576.0,0
+163,Sahel,Rural,5,2,0.67,Homme,58,Secondaire,Tole,Banco (terre),Robinet/Eau courante,0,0.0,0,4,5,1,0,1,0,6.4,32,19743.0,0
+164,Sahel,Urbain,13,8,1.6,Homme,39,Aucun,Tole,Banco (terre),Puits non protege,1,0.61,0,1,10,1,0,1,1,6.7,38,40885.0,1
+165,Nord,Rural,7,3,0.75,Femme,47,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,0,0.0,0,8,5,1,1,1,1,7.8,47,17728.0,0
+166,Est,Urbain,6,3,1.0,Homme,27,Aucun,Tole,Brique de ciment,Puits non protege,1,4.12,2,3,5,0,1,0,0,9.8,28,40586.0,0
+167,Centre-Nord,Rural,9,5,1.25,Homme,37,Aucun,Dur (beton/tuile),Brique de ciment,Robinet/Eau courante,1,0.87,1,6,8,0,0,0,1,9.1,38,19313.0,0
+168,Centre-Nord,Urbain,5,3,1.5,Femme,34,Aucun,Tole,Brique de ciment,Puits non protege,1,3.4,0,2,11,1,1,0,0,17.0,69,37984.0,0
+169,Est,Rural,8,4,1.0,Femme,48,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,1.33,0,6,8,0,1,1,1,7.7,38,46301.0,1
+170,Boucle du Mouhoun,Rural,10,5,1.0,Homme,46,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.77,2,5,7,0,0,0,0,15.5,64,13368.0,0
+171,Est,Urbain,4,2,1.0,Homme,51,Superieur,Tole,Banco (terre),Puits non protege,1,0.82,0,3,9,0,0,1,0,13.0,62,,0
+172,Nord,Rural,4,2,1.0,Femme,39,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.39,0,6,9,1,1,1,1,7.5,49,29903.0,1
+173,Sahel,Rural,10,6,1.5,Homme,33,Primaire,Tole,Brique de ciment,Puits non protege,0,0.0,0,2,3,0,0,1,1,8.8,29,28504.0,1
+174,Boucle du Mouhoun,Rural,6,3,1.0,Homme,47,Aucun,Tole,Banco (terre),Puits non protege,1,0.79,1,7,9,1,0,1,1,8.0,53,23589.0,1
+175,Sahel,Rural,5,3,1.5,Homme,32,Secondaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,5.16,1,4,6,1,1,1,1,7.4,18,21713.0,0
+176,Sahel,Rural,10,4,0.67,Homme,59,Secondaire,Chaume/Paille,Dur,Puits protege/Forage,1,6.19,0,0,4,0,1,1,1,12.1,44,18309.0,0
+177,Est,Rural,15,7,0.88,Femme,44,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,1,0.87,0,8,6,0,0,1,0,12.7,56,31225.0,1
+178,Boucle du Mouhoun,Rural,3,1,0.5,Homme,41,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,2.45,3,2,11,0,0,1,1,7.1,66,,1
+179,Boucle du Mouhoun,Urbain,11,4,0.57,Femme,51,Aucun,Tole,Dur,Puits non protege,1,2.06,2,2,9,1,1,1,0,3.1,50,31721.0,0
+180,Centre-Nord,Rural,15,8,1.14,Homme,44,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,0.52,3,2,4,0,1,1,0,9.2,42,20775.0,0
+181,Boucle du Mouhoun,Rural,9,6,2.0,Homme,23,Aucun,Tole,Banco (terre),Puits protege/Forage,1,2.48,2,7,6,1,1,1,0,9.1,41,22243.0,1
+182,Boucle du Mouhoun,Rural,5,2,0.67,Homme,31,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,1.12,1,6,8,1,1,1,1,5.4,45,46495.0,1
+183,Nord,Rural,7,4,1.33,Homme,59,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.61,2,3,6,1,1,1,0,12.2,62,41337.0,0
+184,Est,Urbain,10,5,1.0,Femme,46,Primaire,Tole,Dur,Robinet/Eau courante,0,0.0,1,5,9,1,1,0,0,1.2,58,17178.0,0
+185,Centre-Nord,Urbain,13,8,1.6,Homme,23,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,1.18,0,8,3,1,0,1,0,2.8,52,18164.0,1
+186,Nord,Urbain,11,6,1.2,Homme,50,Primaire,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,0,10,4,1,0,1,0,6.0,62,38178.0,1
+187,Est,Rural,7,3,0.75,Homme,38,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,0,0.0,2,5,5,1,1,1,1,12.2,52,14112.0,0
+188,Sahel,Rural,12,5,0.71,Homme,34,Primaire,Tole,Banco (terre),Puits non protege,1,3.47,4,4,5,1,1,0,0,6.7,31,51756.0,0
+189,Centre-Nord,Rural,8,4,1.0,Homme,30,Aucun,Tole,Brique de ciment,Puits non protege,1,2.2,3,6,11,1,1,1,1,8.7,34,28590.0,0
+190,Sahel,Rural,6,2,0.5,Homme,58,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.22,1,5,10,1,1,1,1,7.8,62,20740.0,0
+191,Boucle du Mouhoun,Rural,5,3,1.5,Homme,19,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,3.22,0,1,9,1,1,1,1,4.3,30,27031.0,1
+192,Sahel,Urbain,8,5,1.67,Homme,34,Aucun,Dur (beton/tuile),Brique de ciment,Puits non protege,1,2.0,2,10,11,1,0,0,0,3.9,46,49637.0,0
+193,Sahel,Rural,12,8,2.0,Homme,47,Aucun,Tole,Brique de ciment,Robinet/Eau courante,1,3.99,0,6,7,1,0,1,1,6.3,50,10311.0,0
+194,Centre-Nord,Rural,8,4,1.0,Homme,66,Aucun,Tole,Dur,Puits protege/Forage,1,4.73,1,5,5,1,1,0,0,9.2,35,42695.0,0
+195,Sahel,Rural,5,3,1.5,Homme,52,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.17,0,2,5,1,1,1,0,6.0,25,46053.0,1
+196,Sahel,Rural,5,3,1.5,Homme,34,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,3.8,0,3,3,1,0,0,0,7.7,33,23286.0,1
+197,Nord,Rural,6,2,0.5,Femme,65,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,3.88,0,7,3,1,0,0,0,8.7,23,26050.0,0
+198,Centre-Nord,Rural,5,2,0.67,Homme,27,Aucun,Tole,Dur,Robinet/Eau courante,0,0.0,0,4,2,1,1,0,0,9.5,62,28607.0,0
+199,Sahel,Urbain,8,3,0.6,Homme,48,Superieur,Tole,Banco (terre),Puits non protege,0,0.0,2,5,5,1,1,1,0,4.4,58,37425.0,0
+200,Est,Rural,9,4,0.8,Homme,51,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.67,3,7,6,1,1,1,1,15.1,40,19373.0,0
+201,Centre-Nord,Rural,5,3,1.5,Femme,34,Aucun,Tole,Banco (terre),Puits non protege,0,0.0,2,6,3,0,1,0,1,10.2,30,26728.0,1
+202,Boucle du Mouhoun,Rural,5,3,1.5,Homme,54,Primaire,Tole,Dur,Robinet/Eau courante,1,1.54,0,4,6,1,1,1,0,11.7,71,25721.0,0
+203,Nord,Urbain,6,3,1.0,Homme,38,Aucun,Chaume/Paille,Dur,Puits non protege,1,0.38,0,5,6,1,0,1,0,4.8,59,36515.0,0
+204,Sahel,Rural,6,3,1.0,Femme,54,Secondaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,0,0.0,2,3,8,0,1,1,1,4.1,42,89674.0,0
+205,Sahel,Urbain,7,3,0.75,Homme,21,Primaire,Tole,Banco (terre),Puits protege/Forage,1,2.58,0,3,8,1,1,1,0,1.8,71,19337.0,0
+206,Sahel,Urbain,18,8,0.8,Homme,49,Primaire,Dur (beton/tuile),Dur,Puits non protege,1,2.74,1,8,7,0,1,1,0,1.6,54,27875.0,0
+207,Sahel,Rural,13,5,0.62,Homme,40,Aucun,Tole,Banco (terre),Puits non protege,1,1.79,6,6,5,0,0,1,1,8.3,57,19104.0,0
+208,Nord,Urbain,8,4,1.0,Homme,60,Superieur,Tole,Banco (terre),Puits non protege,1,3.86,0,3,5,1,1,1,0,12.7,35,21591.0,1
+209,Sahel,Rural,6,3,1.0,Femme,44,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,1.42,3,2,2,1,1,0,0,10.0,28,16578.0,0
+210,Nord,Urbain,9,5,1.25,Homme,61,Primaire,Tole,Brique de ciment,Puits non protege,1,1.5,1,4,4,1,0,1,0,9.4,27,13511.0,1
+211,Nord,Rural,5,3,1.5,Homme,52,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.61,0,3,6,1,1,1,0,6.5,85,45811.0,0
+212,Nord,Urbain,13,5,0.62,Femme,43,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.93,3,1,4,0,0,0,0,5.5,39,31579.0,0
+213,Sahel,Rural,10,6,1.5,Femme,55,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,3.72,1,1,10,1,1,0,1,15.2,53,28051.0,0
+214,Centre-Nord,Rural,5,2,0.67,Homme,55,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.43,4,2,9,1,1,1,0,13.6,59,18155.0,0
+215,Centre-Nord,Rural,8,4,1.0,Homme,51,Secondaire,Tole,Banco (terre),Puits non protege,0,0.0,4,7,3,1,1,0,0,7.3,52,26011.0,1
+216,Centre-Nord,Urbain,4,2,1.0,Homme,18,Primaire,Tole,Brique de ciment,Robinet/Eau courante,1,3.2,0,4,4,0,1,1,1,4.8,50,15989.0,0
+217,Sahel,Rural,9,3,0.5,Femme,32,Primaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,2.3,0,5,5,1,1,0,1,14.0,49,26575.0,0
+218,Sahel,Rural,10,4,0.67,Femme,63,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,5.21,1,5,2,1,0,0,1,7.1,60,31263.0,1
+219,Boucle du Mouhoun,Urbain,10,4,0.67,Homme,29,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.83,0,4,8,1,1,0,0,4.6,35,21076.0,1
+220,Est,Urbain,6,2,0.5,Homme,56,Aucun,Chaume/Paille,Brique de ciment,Puits non protege,1,2.58,0,7,5,1,1,1,0,0.9,45,19138.0,0
+221,Est,Rural,11,7,1.75,Homme,54,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,0.51,0,1,5,1,1,1,1,12.9,15,21557.0,1
+222,Est,Rural,8,3,0.6,Femme,36,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.58,0,4,7,1,0,1,1,12.6,22,38819.0,1
+223,Nord,Rural,3,2,2.0,Homme,19,Primaire,Tole,Banco (terre),Puits non protege,1,1.82,2,2,8,0,1,0,1,5.0,31,29458.0,1
+224,Boucle du Mouhoun,Urbain,9,6,2.0,Homme,38,Secondaire,Tole,Dur,Puits non protege,1,0.34,0,1,5,1,1,1,1,4.6,66,13054.0,1
+225,Est,Rural,5,3,1.5,Homme,72,Primaire,Tole,Brique de ciment,Puits non protege,1,3.54,0,5,3,0,1,1,1,14.5,48,37256.0,1
+226,Boucle du Mouhoun,Urbain,3,1,0.5,Homme,34,Aucun,Tole,Banco (terre),Puits protege/Forage,1,2.89,2,1,4,1,0,0,0,2.1,63,34354.0,0
+227,Sahel,Rural,11,7,1.75,Homme,35,Primaire,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,3,3,5,1,1,0,1,10.5,58,29266.0,1
+228,Nord,Rural,9,4,0.8,Femme,32,Aucun,Tole,Dur,Puits protege/Forage,1,0.55,2,3,3,1,0,1,0,7.7,56,56417.0,0
+229,Nord,Rural,9,4,0.8,Homme,61,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,0.9,3,3,5,1,1,1,0,14.4,37,27193.0,0
+230,Sahel,Rural,10,5,1.0,Homme,42,Secondaire,Tole,Banco (terre),Puits non protege,1,3.13,0,6,3,1,1,1,0,4.8,53,32658.0,0
+231,Sahel,Urbain,9,4,0.8,Homme,37,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,1,1.56,2,6,3,1,1,0,0,0.9,56,33231.0,1
+232,Est,Rural,7,4,1.33,Femme,63,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,1.33,2,2,5,1,0,1,0,7.0,87,39928.0,1
+233,Boucle du Mouhoun,Rural,6,2,0.5,Homme,53,Secondaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,3,7,1,1,0,0,9.3,46,24336.0,0
+234,Nord,Urbain,5,3,1.5,Homme,33,Aucun,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,1.77,2,3,5,1,0,0,0,5.4,64,,0
+235,Boucle du Mouhoun,Urbain,9,5,1.25,Homme,29,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,0.59,2,2,3,1,1,1,1,1.2,50,41684.0,0
+236,Centre-Nord,Urbain,7,4,1.33,Homme,60,Secondaire,Tole,Banco (terre),Robinet/Eau courante,1,3.1,0,4,11,1,0,1,0,7.1,41,40725.0,0
+237,Est,Rural,5,2,0.67,Homme,45,Secondaire,Tole,Banco (terre),Robinet/Eau courante,1,0.52,0,5,7,1,1,1,0,12.1,66,47747.0,0
+238,Centre-Nord,Rural,6,3,1.0,Femme,25,Secondaire,Tole,Banco (terre),Puits non protege,1,1.57,0,3,6,0,1,1,1,9.4,82,32435.0,0
+239,Sahel,Urbain,5,3,1.5,Homme,22,Superieur,Tole,Banco (terre),Puits protege/Forage,1,1.96,3,3,10,1,1,0,0,10.6,56,12811.0,0
+240,Sahel,Rural,6,3,1.0,Homme,30,Primaire,Tole,Brique de ciment,Puits protege/Forage,0,0.0,2,6,5,1,1,1,0,11.4,41,28965.0,0
+241,Centre-Nord,Rural,4,1,0.33,Homme,29,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,2,7,1,1,1,1,7.7,59,27314.0,0
+242,Centre-Nord,Urbain,8,3,0.6,Femme,18,Aucun,Tole,Brique de ciment,Puits non protege,1,0.12,0,1,3,1,1,1,1,12.8,56,46782.0,0
+243,Sahel,Rural,2,1,1.0,Homme,31,Primaire,Tole,Dur,Puits protege/Forage,0,0.0,3,1,6,1,1,0,1,18.1,87,43317.0,0
+244,Nord,Rural,7,4,1.33,Homme,33,Aucun,Chaume/Paille,Dur,Puits protege/Forage,0,0.0,0,7,6,1,1,0,1,10.6,64,35446.0,0
+245,Nord,Urbain,5,3,1.5,Homme,39,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.34,0,7,6,1,1,1,0,2.6,37,10585.0,1
+246,Centre-Nord,Rural,5,3,1.5,Femme,67,Aucun,Dur (beton/tuile),Banco (terre),Puits non protege,1,4.86,0,7,8,1,0,1,0,14.3,72,18561.0,0
+247,Nord,Rural,7,3,0.75,Femme,42,Secondaire,Tole,Brique de ciment,Puits non protege,0,0.0,2,3,7,0,1,1,0,5.7,64,22836.0,0
+248,Est,Rural,11,4,0.57,Homme,43,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.7,3,11,10,1,1,1,0,6.7,67,23072.0,1
+249,Est,Rural,8,4,1.0,Homme,52,Secondaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,5,8,1,1,1,1,13.4,59,29001.0,1
+250,Est,Rural,7,4,1.33,Homme,42,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,1.67,0,3,8,0,0,1,1,6.4,68,52370.0,0
+251,Nord,Urbain,12,5,0.71,Femme,50,Aucun,Tole,Brique de ciment,Puits non protege,1,1.03,0,9,8,1,0,0,1,12.0,59,38203.0,0
+252,Centre-Nord,Urbain,8,4,1.0,Femme,49,Primaire,Tole,Brique de ciment,Puits non protege,1,3.84,2,5,6,1,1,1,1,2.5,48,17791.0,0
+253,Est,Rural,8,3,0.6,Femme,47,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,0,0.0,0,7,9,1,1,1,1,8.2,54,18529.0,1
+254,Sahel,Rural,7,3,0.75,Homme,81,Secondaire,Tole,Dur,Puits protege/Forage,1,1.59,1,6,3,0,1,1,0,7.9,50,17791.0,0
+255,Sahel,Urbain,8,5,1.67,Homme,57,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,1,1.33,0,4,5,1,0,1,1,8.1,57,25525.0,1
+256,Centre-Nord,Rural,6,2,0.5,Homme,31,Aucun,Tole,Banco (terre),Puits protege/Forage,1,2.65,2,3,8,0,1,0,1,11.9,53,38658.0,0
+257,Centre-Nord,Rural,10,4,0.67,Femme,50,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.48,0,5,4,0,1,1,1,7.8,47,41515.0,0
+258,Sahel,Rural,13,8,1.6,Homme,35,Aucun,Tole,Banco (terre),Puits protege/Forage,1,5.52,0,4,9,1,0,1,0,11.3,49,22713.0,0
+259,Sahel,Urbain,14,6,0.75,Homme,51,Aucun,Tole,Dur,Puits non protege,0,0.0,4,5,4,1,0,1,0,,52,26541.0,0
+260,Nord,Rural,7,3,0.75,Homme,27,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,1.22,0,3,1,1,0,0,0,12.4,24,57147.0,0
+261,Sahel,Urbain,5,3,1.5,Homme,31,Aucun,Tole,Brique de ciment,Robinet/Eau courante,1,2.38,0,3,3,1,1,1,0,7.7,68,13792.0,0
+262,Centre-Nord,Rural,5,2,0.67,Femme,49,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,2.16,0,5,7,1,0,1,1,6.5,58,35849.0,0
+263,Est,Rural,6,3,1.0,Homme,58,Superieur,Tole,Banco (terre),Puits non protege,1,5.51,0,5,9,1,1,1,1,16.1,42,34149.0,0
+264,Sahel,Rural,6,3,1.0,Homme,52,Secondaire,Chaume/Paille,Dur,Puits non protege,1,0.84,0,3,7,1,0,1,1,5.0,61,23541.0,0
+265,Boucle du Mouhoun,Rural,5,2,0.67,Homme,56,Primaire,Chaume/Paille,Dur,Puits non protege,0,0.0,0,4,6,0,1,1,0,8.2,44,26681.0,0
+266,Sahel,Rural,15,8,1.14,Homme,50,Aucun,Tole,Brique de ciment,Robinet/Eau courante,0,0.0,0,4,10,1,1,1,0,11.3,44,32503.0,1
+267,Est,Rural,7,3,0.75,Homme,47,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.87,1,6,4,1,1,1,0,9.0,58,23563.0,0
+268,Sahel,Rural,8,5,1.67,Homme,38,Primaire,Tole,Banco (terre),Puits non protege,1,3.18,1,2,3,0,0,1,0,8.7,75,20193.0,1
+269,Sahel,Rural,6,4,2.0,Homme,56,Superieur,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,2.08,0,4,4,1,1,0,0,8.1,56,19520.0,1
+270,Sahel,Rural,7,4,1.33,Homme,58,Aucun,Tole,Banco (terre),Puits non protege,1,0.1,0,3,4,0,0,0,0,7.7,40,62192.0,1
+271,Sahel,Rural,6,3,1.0,Homme,44,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.18,0,4,7,0,1,1,0,15.2,46,22068.0,0
+272,Sahel,Urbain,6,3,1.0,Femme,43,Superieur,Tole,Brique de ciment,Puits protege/Forage,1,0.83,1,2,6,1,0,0,0,4.7,66,29455.0,0
+273,Sahel,Rural,6,4,2.0,Homme,66,Secondaire,Chaume/Paille,Dur,Puits protege/Forage,1,1.22,2,2,4,0,1,1,0,8.7,58,38306.0,0
+274,Nord,Urbain,7,3,0.75,Homme,45,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.44,0,4,3,0,0,1,1,3.0,67,24461.0,0
+275,Nord,Urbain,11,6,1.2,Homme,46,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,0,0.0,3,4,4,1,1,1,1,7.8,58,27340.0,1
+276,Est,Rural,5,3,1.5,Homme,51,Aucun,Tole,Banco (terre),Puits non protege,1,0.81,1,4,9,1,1,0,1,5.6,64,33733.0,0
+277,Est,Urbain,5,2,0.67,Homme,44,Primaire,Chaume/Paille,Dur,Robinet/Eau courante,0,0.0,2,3,7,1,0,1,0,15.8,84,18369.0,0
+278,Nord,Urbain,7,3,0.75,Homme,34,Aucun,Tole,Brique de ciment,Puits non protege,1,2.78,0,7,7,0,1,1,0,2.5,30,13475.0,1
+279,Centre-Nord,Urbain,13,7,1.17,Homme,50,Aucun,Tole,Banco (terre),Puits non protege,1,0.28,0,6,7,1,1,1,0,4.7,91,19365.0,1
+280,Centre-Nord,Rural,5,3,1.5,Homme,44,Aucun,Dur (beton/tuile),Brique de ciment,Robinet/Eau courante,1,1.89,0,5,4,1,1,0,1,10.7,67,58560.0,0
+281,Sahel,Rural,7,3,0.75,Femme,69,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,3.0,3,5,5,0,1,1,1,13.8,94,20768.0,0
+282,Sahel,Rural,5,3,1.5,Homme,55,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.75,3,2,8,0,0,1,1,8.0,36,28532.0,1
+283,Sahel,Rural,12,7,1.4,Homme,37,Aucun,Tole,Banco (terre),Puits non protege,1,1.97,1,3,10,1,0,1,0,7.4,58,14815.0,1
+284,Sahel,Urbain,9,4,0.8,Femme,54,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,0.31,1,3,5,1,1,1,1,5.6,55,49216.0,1
+285,Nord,Urbain,4,2,1.0,Homme,49,Primaire,Tole,Banco (terre),Puits non protege,1,3.74,1,4,8,0,0,1,1,3.1,66,,0
+286,Est,Rural,7,4,1.33,Homme,62,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,0.57,3,5,4,0,1,1,0,8.4,60,21923.0,0
+287,Sahel,Urbain,8,5,1.67,Homme,38,Primaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,1,4,5,1,0,1,0,13.0,58,25335.0,1
+288,Est,Rural,4,3,3.0,Homme,47,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,0,0.0,0,3,4,1,1,1,0,6.5,64,83355.0,0
+289,Nord,Urbain,4,2,1.0,Homme,44,Aucun,Tole,Brique de ciment,Robinet/Eau courante,0,0.0,2,4,10,1,1,0,0,0.7,50,32817.0,0
+290,Sahel,Rural,10,6,1.5,Homme,46,Secondaire,Tole,Banco (terre),Robinet/Eau courante,1,1.25,1,2,7,1,1,0,0,6.9,44,25070.0,0
+291,Centre-Nord,Urbain,5,3,1.5,Femme,33,Secondaire,Tole,Dur,Puits non protege,1,6.45,0,4,7,0,1,1,1,1.6,59,7352.0,0
+292,Sahel,Urbain,10,6,1.5,Femme,52,Superieur,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.79,1,5,4,1,0,1,0,7.6,44,49456.0,0
+293,Boucle du Mouhoun,Rural,6,3,1.0,Femme,50,Secondaire,Tole,Brique de ciment,Robinet/Eau courante,0,0.0,0,7,6,1,1,1,1,7.4,50,19679.0,0
+294,Sahel,Rural,6,2,0.5,Homme,62,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,0.65,0,5,4,1,0,1,0,14.5,29,18330.0,0
+295,Centre-Nord,Urbain,5,3,1.5,Homme,45,Secondaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.19,0,7,6,1,0,1,1,4.3,53,19083.0,0
+296,Boucle du Mouhoun,Rural,8,3,0.6,Femme,40,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,1.92,5,4,8,1,0,1,0,5.7,37,52014.0,0
+297,Boucle du Mouhoun,Rural,8,3,0.6,Femme,55,Secondaire,Dur (beton/tuile),Banco (terre),Puits non protege,1,2.41,1,2,3,1,1,0,1,13.6,51,26398.0,0
+298,Centre-Nord,Urbain,6,4,2.0,Homme,35,Secondaire,Dur (beton/tuile),Banco (terre),Robinet/Eau courante,0,0.0,0,1,6,1,1,0,0,2.6,35,13563.0,0
+299,Centre-Nord,Rural,7,3,0.75,Femme,59,Secondaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,0,0.0,0,2,2,1,0,1,0,4.6,52,24542.0,0
+300,Nord,Rural,6,4,2.0,Femme,59,Aucun,Tole,Brique de ciment,Robinet/Eau courante,1,4.1,3,3,7,0,1,1,1,10.5,66,18505.0,0
+301,Centre-Nord,Rural,2,1,1.0,Homme,61,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.68,3,1,7,1,0,1,0,7.0,42,31628.0,0
+302,Sahel,Rural,7,4,1.33,Homme,50,Aucun,Dur (beton/tuile),Banco (terre),Puits non protege,1,1.6,0,4,2,1,1,1,1,10.9,37,22609.0,1
+303,Nord,Urbain,3,1,0.5,Homme,39,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,0.61,0,5,9,1,0,1,0,8.7,65,13277.0,0
+304,Nord,Rural,10,5,1.0,Homme,46,Secondaire,Tole,Brique de ciment,Robinet/Eau courante,0,0.0,6,5,9,0,1,1,0,10.0,67,25923.0,0
+305,Centre-Nord,Rural,5,3,1.5,Homme,50,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,1.53,1,5,4,1,0,1,1,7.1,59,26224.0,1
+306,Est,Rural,5,3,1.5,Homme,38,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,9,10,1,1,0,0,13.9,45,15305.0,1
+307,Est,Urbain,9,4,0.8,Homme,62,Primaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,0.44,0,4,8,1,1,0,1,2.4,42,11136.0,1
+308,Nord,Rural,7,3,0.75,Femme,53,Aucun,Tole,Brique de ciment,Puits non protege,1,0.46,4,7,8,1,1,1,0,10.9,47,30552.0,0
+309,Sahel,Urbain,8,5,1.67,Femme,33,Primaire,Tole,Banco (terre),Puits non protege,1,2.07,1,6,1,1,0,0,1,7.9,51,23711.0,1
+310,Sahel,Urbain,12,5,0.71,Homme,69,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,5,9,1,1,1,1,5.2,24,24420.0,1
+311,Est,Urbain,8,4,1.0,Homme,46,Primaire,Tole,Dur,Robinet/Eau courante,1,1.35,0,1,10,1,1,0,0,8.6,36,37633.0,0
+312,Est,Urbain,7,3,0.75,Homme,31,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.34,0,3,6,1,0,1,0,6.1,72,11244.0,0
+313,Sahel,Urbain,7,3,0.75,Homme,34,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,2.61,1,7,10,1,1,1,1,6.6,55,27643.0,1
+314,Est,Urbain,7,4,1.33,Homme,64,Primaire,Tole,Dur,Puits non protege,1,3.65,4,8,4,1,1,1,0,8.6,72,36249.0,0
+315,Est,Rural,6,3,1.0,Homme,69,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.0,0,5,1,1,0,0,1,9.8,68,24780.0,0
+316,Est,Urbain,12,6,1.0,Femme,58,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,1,0.62,2,6,6,1,1,1,1,9.3,47,14225.0,0
+317,Est,Rural,7,3,0.75,Homme,62,Aucun,Tole,Banco (terre),Puits non protege,1,1.49,2,3,6,1,1,1,0,15.7,47,19983.0,0
+318,Nord,Rural,2,1,1.0,Homme,61,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,2.3,1,3,4,0,1,0,0,11.1,67,21957.0,0
+319,Est,Urbain,9,6,2.0,Homme,52,Primaire,Tole,Dur,Puits non protege,1,0.13,1,5,3,1,1,0,1,8.7,64,13220.0,1
+320,Boucle du Mouhoun,Urbain,2,1,1.0,Femme,49,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,1.12,0,3,7,0,0,1,1,5.3,68,31797.0,0
+321,Boucle du Mouhoun,Urbain,7,3,0.75,Homme,52,Secondaire,Chaume/Paille,Brique de ciment,Robinet/Eau courante,0,0.0,1,7,10,1,0,1,0,11.8,52,26942.0,0
+322,Est,Rural,8,4,1.0,Homme,55,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.23,0,4,4,0,0,1,1,10.4,54,20144.0,0
+323,Est,Rural,8,5,1.67,Homme,35,Secondaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,2,3,1,1,0,0,12.2,48,41919.0,0
+324,Nord,Rural,6,3,1.0,Homme,55,Aucun,Tole,Dur,Puits non protege,0,0.0,3,4,5,0,0,1,1,5.7,51,21271.0,0
+325,Centre-Nord,Rural,13,7,1.17,Homme,64,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.39,0,6,6,1,1,0,0,11.8,41,52363.0,0
+326,Nord,Rural,11,5,0.83,Homme,42,Secondaire,Dur (beton/tuile),Brique de ciment,Puits protege/Forage,0,0.0,1,6,4,1,1,0,0,9.6,51,23837.0,0
+327,Centre-Nord,Rural,9,5,1.25,Homme,41,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,0,0.0,0,1,4,0,0,1,0,,49,17509.0,1
+328,Nord,Rural,6,4,2.0,Homme,51,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,2.89,5,1,3,1,1,1,0,12.1,45,17748.0,0
+329,Nord,Urbain,9,5,1.25,Homme,37,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,1,2.97,0,2,6,1,1,1,0,8.6,65,28029.0,1
+330,Est,Rural,6,3,1.0,Homme,28,Aucun,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,2,5,4,1,1,0,0,11.8,29,,1
+331,Centre-Nord,Urbain,6,3,1.0,Homme,60,Superieur,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,2.27,0,3,9,1,1,1,1,4.5,57,28709.0,0
+332,Sahel,Rural,6,3,1.0,Homme,39,Secondaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,0,0.0,1,4,2,1,0,1,0,18.6,37,22466.0,0
+333,Nord,Rural,7,3,0.75,Homme,45,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,5.21,0,4,7,1,1,1,1,14.5,38,22236.0,0
+334,Centre-Nord,Rural,9,5,1.25,Femme,37,Aucun,Dur (beton/tuile),Brique de ciment,Puits non protege,1,2.28,1,5,4,1,1,0,0,8.8,40,26404.0,0
+335,Sahel,Rural,8,4,1.0,Femme,62,Aucun,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,3,6,4,1,1,1,1,8.6,60,42282.0,1
+336,Nord,Urbain,4,2,1.0,Homme,56,Secondaire,Dur (beton/tuile),Brique de ciment,Puits protege/Forage,1,3.31,2,5,8,1,1,1,0,0.3,16,21071.0,0
+337,Sahel,Rural,3,1,0.5,Homme,42,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,0.5,3,2,7,1,0,0,0,6.2,55,29227.0,0
+338,Centre-Nord,Rural,9,5,1.25,Homme,30,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,1,1.65,0,0,7,1,1,1,1,6.9,53,32857.0,0
+339,Sahel,Urbain,11,7,1.75,Femme,40,Aucun,Tole,Banco (terre),Puits protege/Forage,1,4.72,2,7,6,1,0,0,0,4.7,36,15608.0,1
+340,Boucle du Mouhoun,Urbain,8,4,1.0,Homme,52,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,4.78,2,2,7,1,0,1,0,11.6,55,34038.0,0
+341,Sahel,Rural,9,4,0.8,Homme,47,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.13,0,8,5,1,0,1,0,8.3,33,38829.0,0
+342,Boucle du Mouhoun,Rural,7,3,0.75,Homme,46,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,4.63,0,4,5,1,1,1,0,6.1,51,41555.0,1
+343,Centre-Nord,Rural,7,4,1.33,Femme,48,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.27,3,9,5,1,1,0,0,11.5,32,16335.0,0
+344,Nord,Rural,8,5,1.67,Homme,55,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,1.98,4,2,5,1,1,1,1,11.9,85,16857.0,0
+345,Centre-Nord,Rural,6,2,0.5,Homme,44,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,0.33,4,2,7,0,1,1,0,8.4,66,26253.0,0
+346,Centre-Nord,Rural,3,2,2.0,Homme,51,Aucun,Chaume/Paille,Brique de ciment,Puits non protege,1,3.98,0,4,7,0,1,1,0,14.7,56,25590.0,1
+347,Boucle du Mouhoun,Urbain,7,4,1.33,Homme,32,Primaire,Tole,Dur,Puits non protege,1,1.22,0,5,6,1,1,0,0,11.1,37,27138.0,0
+348,Sahel,Rural,10,6,1.5,Homme,78,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,0.41,0,2,8,1,1,0,0,5.1,48,22915.0,1
+349,Nord,Urbain,9,4,0.8,Homme,41,Aucun,Tole,Dur,Puits protege/Forage,1,1.42,0,5,3,1,0,1,0,7.9,48,29250.0,0
+350,Sahel,Rural,3,2,2.0,Femme,48,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,0.08,0,3,4,0,1,1,0,4.6,56,8524.0,1
+351,Nord,Urbain,8,4,1.0,Femme,52,Superieur,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,2.53,0,4,5,1,1,1,0,4.8,58,36175.0,0
+352,Sahel,Rural,8,3,0.6,Homme,40,Primaire,Tole,Banco (terre),Puits non protege,0,0.0,0,3,5,1,0,1,1,23.1,56,52174.0,1
+353,Nord,Urbain,6,2,0.5,Femme,45,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.64,0,5,5,0,0,0,0,7.7,57,20976.0,1
+354,Nord,Urbain,6,3,1.0,Homme,45,Primaire,Tole,Brique de ciment,Puits non protege,1,0.62,0,4,5,1,0,1,0,3.2,49,29468.0,0
+355,Est,Rural,12,4,0.5,Homme,33,Primaire,Tole,Dur,Puits protege/Forage,1,2.4,0,4,4,1,0,1,1,12.2,57,57314.0,0
+356,Nord,Rural,9,4,0.8,Homme,51,Primaire,Tole,Dur,Puits protege/Forage,1,2.61,2,5,3,1,1,1,0,7.0,42,27311.0,0
+357,Centre-Nord,Rural,10,6,1.5,Femme,24,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.92,4,4,2,1,1,1,0,10.4,35,30867.0,0
+358,Centre-Nord,Rural,3,2,2.0,Homme,68,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,0.72,2,1,6,1,1,1,1,6.5,82,61621.0,0
+359,Est,Urbain,6,2,0.5,Homme,55,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,3.06,2,5,6,1,1,0,1,3.9,59,67265.0,0
+360,Nord,Rural,5,2,0.67,Homme,53,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.37,0,4,3,1,1,0,0,14.5,81,16692.0,0
+361,Boucle du Mouhoun,Urbain,6,3,1.0,Homme,22,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.08,0,3,9,1,1,1,0,14.4,48,22356.0,1
+362,Sahel,Rural,6,3,1.0,Homme,35,Aucun,Chaume/Paille,Dur,Puits protege/Forage,1,0.71,1,2,4,0,1,1,1,10.4,91,40220.0,0
+363,Sahel,Rural,7,3,0.75,Homme,63,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,2.37,1,3,5,1,0,1,0,12.8,53,33648.0,0
+364,Sahel,Rural,9,5,1.25,Homme,90,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,0,0.0,1,1,6,1,1,1,1,7.5,70,36965.0,1
+365,Nord,Urbain,9,4,0.8,Homme,61,Primaire,Tole,Dur,Robinet/Eau courante,1,3.35,0,5,4,1,0,0,0,2.3,53,8269.0,0
+366,Est,Urbain,7,3,0.75,Femme,58,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.04,0,5,5,1,1,1,0,5.9,55,11167.0,0
+367,Centre-Nord,Rural,9,5,1.25,Homme,52,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,2.07,0,2,3,1,0,1,0,9.7,50,60048.0,0
+368,Nord,Rural,8,4,1.0,Femme,34,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.77,3,4,6,1,1,1,1,23.7,44,38110.0,0
+369,Est,Urbain,10,5,1.0,Femme,58,Primaire,Dur (beton/tuile),Brique de ciment,Puits non protege,1,1.79,0,1,3,1,1,1,1,4.6,68,31544.0,0
+370,Boucle du Mouhoun,Rural,7,4,1.33,Homme,31,Aucun,Tole,Brique de ciment,Puits non protege,1,0.86,0,2,6,1,1,0,1,8.5,52,15382.0,1
+371,Centre-Nord,Urbain,9,6,2.0,Homme,29,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.58,0,3,3,1,0,1,0,7.6,65,22320.0,1
+372,Sahel,Rural,6,2,0.5,Homme,28,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,3,6,6,0,1,0,1,7.4,66,34764.0,0
+373,Est,Rural,13,7,1.17,Femme,58,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.75,2,10,8,1,1,0,1,6.8,75,14438.0,0
+374,Est,Rural,7,3,0.75,Homme,44,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,0,0.0,0,3,10,0,1,0,0,10.9,59,19587.0,1
+375,Sahel,Rural,4,2,1.0,Homme,46,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.67,2,2,8,1,1,1,0,5.5,28,31854.0,0
+376,Sahel,Rural,5,2,0.67,Homme,45,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.9,0,8,3,0,0,0,0,11.3,47,35080.0,1
+377,Boucle du Mouhoun,Rural,7,3,0.75,Homme,30,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,0,0.0,0,5,7,1,1,0,1,7.8,52,21261.0,0
+378,Est,Urbain,8,3,0.6,Femme,36,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,1,2.24,0,4,9,1,0,1,0,8.5,52,41857.0,1
+379,Est,Rural,5,3,1.5,Femme,37,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.81,0,3,6,1,0,1,0,16.0,73,41250.0,1
+380,Centre-Nord,Rural,8,4,1.0,Homme,27,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,0.43,0,3,4,1,0,1,0,6.8,70,12007.0,0
+381,Nord,Rural,6,4,2.0,Homme,38,Secondaire,Dur (beton/tuile),Banco (terre),Puits non protege,0,0.0,0,4,6,1,0,1,1,8.4,50,56223.0,0
+382,Boucle du Mouhoun,Rural,9,4,0.8,Homme,31,Aucun,Chaume/Paille,Dur,Robinet/Eau courante,1,1.19,1,3,3,1,1,1,0,14.1,91,45474.0,0
+383,Centre-Nord,Rural,11,7,1.75,Homme,53,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.1,0,4,7,1,0,0,1,10.4,46,29524.0,1
+384,Est,Rural,5,3,1.5,Homme,54,Primaire,Tole,Banco (terre),Puits non protege,1,5.34,2,6,5,1,0,0,1,18.5,48,25291.0,1
+385,Est,Urbain,3,1,0.5,Homme,28,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.65,0,3,9,1,0,0,0,6.5,35,38377.0,0
+386,Boucle du Mouhoun,Rural,9,5,1.25,Femme,41,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.32,0,3,7,1,1,1,0,15.6,27,34207.0,1
+387,Centre-Nord,Urbain,7,4,1.33,Homme,69,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,0.32,1,3,5,1,1,0,0,2.0,33,23809.0,0
+388,Boucle du Mouhoun,Rural,7,3,0.75,Homme,32,Superieur,Tole,Banco (terre),Puits non protege,0,0.0,0,2,2,1,1,1,1,6.8,68,55427.0,0
+389,Sahel,Urbain,6,3,1.0,Homme,51,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,1,1.37,0,9,5,1,1,1,1,13.4,64,10435.0,1
+390,Centre-Nord,Rural,7,4,1.33,Homme,46,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,0.47,0,4,7,1,1,1,1,6.7,38,19946.0,1
+391,Nord,Rural,8,4,1.0,Homme,59,Primaire,Tole,Banco (terre),Puits non protege,1,3.37,2,8,12,1,0,1,0,17.5,54,32909.0,0
+392,Sahel,Urbain,7,3,0.75,Homme,49,Aucun,Tole,Banco (terre),Puits non protege,1,1.41,0,5,9,1,1,1,0,3.1,65,26280.0,1
+393,Nord,Urbain,10,6,1.5,Homme,39,Aucun,Chaume/Paille,Dur,Robinet/Eau courante,1,3.0,0,4,4,1,1,0,0,1.6,19,36858.0,1
+394,Nord,Urbain,9,4,0.8,Femme,46,Primaire,Tole,Dur,Puits protege/Forage,1,5.73,2,6,2,1,1,1,0,4.6,80,14363.0,0
+395,Sahel,Rural,8,4,1.0,Femme,46,Superieur,Tole,Brique de ciment,Puits protege/Forage,1,0.36,0,2,6,1,1,1,1,6.0,69,23993.0,0
+396,Est,Urbain,8,4,1.0,Homme,44,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,0.78,0,4,5,1,0,1,1,8.0,65,45146.0,0
+397,Centre-Nord,Urbain,7,5,2.5,Homme,28,Primaire,Tole,Brique de ciment,Puits non protege,1,2.63,0,2,2,1,0,0,0,0.6,71,13737.0,0
+398,Est,Urbain,7,3,0.75,Homme,61,Aucun,Tole,Dur,Puits non protege,1,1.49,3,2,6,1,1,1,1,16.8,19,24144.0,1
+399,Est,Rural,5,2,0.67,Homme,59,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.1,0,5,12,1,1,0,0,9.7,49,21187.0,1
+400,Est,Urbain,12,5,0.71,Femme,31,Aucun,Tole,Dur,Puits protege/Forage,1,1.1,4,6,4,1,1,0,0,8.3,72,31682.0,0
+401,Est,Urbain,5,3,1.5,Femme,41,Secondaire,Tole,Brique de ciment,Puits non protege,1,1.25,0,5,5,0,1,1,1,9.0,52,32109.0,0
+402,Boucle du Mouhoun,Urbain,2,1,1.0,Homme,42,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.42,1,3,8,1,1,0,1,6.1,64,28105.0,0
+403,Centre-Nord,Rural,10,5,1.0,Femme,30,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,0.75,1,2,8,1,1,0,1,11.3,75,23613.0,0
+404,Sahel,Rural,7,3,0.75,Homme,21,Aucun,Tole,Banco (terre),Puits protege/Forage,1,4.08,0,5,7,0,0,1,1,8.1,63,27680.0,0
+405,Boucle du Mouhoun,Urbain,4,2,1.0,Homme,36,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.32,0,3,5,1,1,0,0,9.0,48,24982.0,1
+406,Centre-Nord,Rural,5,2,0.67,Homme,40,Aucun,Tole,Brique de ciment,Puits protege/Forage,0,0.0,4,4,3,1,1,1,1,18.9,61,26513.0,0
+407,Est,Urbain,4,2,1.0,Homme,26,Aucun,Tole,Banco (terre),Puits non protege,1,0.93,0,4,4,1,1,0,1,4.0,25,51825.0,0
+408,Centre-Nord,Rural,11,4,0.57,Femme,47,Primaire,Tole,Brique de ciment,Puits non protege,0,0.0,0,3,5,1,0,1,0,13.8,60,15662.0,1
+409,Sahel,Rural,6,2,0.5,Femme,60,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,3.71,0,2,6,1,1,1,0,14.9,64,31374.0,0
+410,Boucle du Mouhoun,Urbain,3,1,0.5,Homme,56,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.19,0,2,8,1,0,1,1,3.9,54,17607.0,0
+411,Nord,Rural,5,2,0.67,Homme,43,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,0,0.0,2,1,8,1,1,1,1,9.3,71,64844.0,0
+412,Nord,Rural,7,3,0.75,Homme,21,Primaire,Tole,Brique de ciment,Puits non protege,1,2.76,0,4,5,1,1,1,0,9.1,56,28004.0,0
+413,Sahel,Urbain,4,2,1.0,Homme,54,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.54,0,4,7,1,1,1,0,4.7,54,15206.0,0
+414,Boucle du Mouhoun,Urbain,5,2,0.67,Homme,47,Aucun,Tole,Banco (terre),Puits non protege,0,0.0,0,6,6,1,0,0,0,3.1,81,24237.0,0
+415,Sahel,Urbain,9,3,0.5,Homme,51,Secondaire,Tole,Banco (terre),Puits non protege,1,0.42,2,5,9,1,1,1,0,5.4,37,13954.0,0
+416,Sahel,Rural,5,2,0.67,Homme,70,Secondaire,Tole,Brique de ciment,Puits non protege,1,2.09,3,3,2,0,1,1,1,8.5,74,20233.0,0
+417,Sahel,Rural,7,3,0.75,Homme,34,Secondaire,Chaume/Paille,Dur,Puits non protege,0,0.0,6,7,3,1,1,0,0,16.3,73,35493.0,0
+418,Centre-Nord,Urbain,9,3,0.5,Homme,18,Primaire,Tole,Brique de ciment,Puits non protege,1,1.96,0,5,8,1,1,0,0,6.5,66,49640.0,0
+419,Sahel,Rural,8,3,0.6,Femme,31,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,1,0.24,3,5,5,1,0,1,0,7.4,46,43753.0,1
+420,Boucle du Mouhoun,Rural,14,8,1.33,Homme,51,Primaire,Dur (beton/tuile),Banco (terre),Robinet/Eau courante,0,0.0,0,3,7,1,1,0,1,16.8,57,25663.0,0
+421,Nord,Rural,8,5,1.67,Homme,45,Primaire,Tole,Banco (terre),Puits protege/Forage,1,4.19,0,5,6,1,0,0,1,15.3,39,34771.0,0
+422,Sahel,Rural,11,6,1.2,Homme,29,Superieur,Tole,Brique de ciment,Puits protege/Forage,1,1.11,3,6,6,1,1,1,1,8.6,43,38709.0,0
+423,Sahel,Urbain,6,2,0.5,Homme,27,Aucun,Tole,Banco (terre),Puits non protege,1,1.1,0,3,3,1,1,1,0,6.2,54,74041.0,1
+424,Sahel,Urbain,7,5,2.5,Homme,40,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,2.56,0,4,4,1,0,1,0,12.4,38,20501.0,1
+425,Nord,Urbain,5,3,1.5,Homme,29,Primaire,Tole,Banco (terre),Puits non protege,1,2.23,1,3,6,1,0,0,0,9.5,48,53063.0,0
+426,Centre-Nord,Rural,7,3,0.75,Homme,52,Aucun,Tole,Brique de ciment,Puits non protege,1,1.59,5,5,9,1,1,1,1,5.3,34,16458.0,0
+427,Sahel,Rural,7,3,0.75,Homme,40,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.8,5,4,10,0,1,1,1,6.6,62,45751.0,0
+428,Centre-Nord,Rural,9,5,1.25,Homme,37,Secondaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,1.01,3,2,4,0,0,1,0,7.6,78,20347.0,0
+429,Sahel,Rural,6,4,2.0,Homme,35,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,0.6,0,6,4,1,1,1,0,8.0,87,19778.0,0
+430,Centre-Nord,Rural,14,8,1.33,Femme,48,Secondaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,0.21,3,6,12,1,1,1,1,9.2,35,23669.0,0
+431,Boucle du Mouhoun,Rural,9,5,1.25,Homme,46,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,6,2,3,0,0,1,1,11.1,38,18974.0,1
+432,Centre-Nord,Rural,4,2,1.0,Homme,48,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,1,2.66,0,5,6,1,0,0,1,9.2,51,32589.0,0
+433,Nord,Rural,9,6,2.0,Homme,47,Primaire,Tole,Dur,Puits protege/Forage,1,2.47,0,0,6,1,0,1,0,15.0,65,46721.0,0
+434,Centre-Nord,Urbain,6,2,0.5,Homme,44,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.44,2,5,4,1,1,1,1,4.0,51,10402.0,0
+435,Sahel,Rural,10,4,0.67,Homme,32,Aucun,Tole,Banco (terre),Puits non protege,1,1.28,2,3,7,1,0,1,0,15.0,69,24870.0,1
+436,Sahel,Rural,5,3,1.5,Homme,36,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,1.14,2,1,5,1,1,1,1,10.5,62,16499.0,1
+437,Sahel,Urbain,6,2,0.5,Homme,40,Secondaire,Tole,Banco (terre),Robinet/Eau courante,0,0.0,1,4,7,1,1,0,0,6.2,26,40428.0,0
+438,Nord,Urbain,8,4,1.0,Homme,72,Aucun,Chaume/Paille,Brique de ciment,Puits non protege,1,2.82,1,6,4,1,1,0,0,8.9,55,50980.0,1
+439,Centre-Nord,Urbain,7,3,0.75,Homme,27,Aucun,Chaume/Paille,Brique de ciment,Puits non protege,1,7.55,0,5,3,1,1,1,0,8.0,34,24870.0,0
+440,Nord,Rural,12,5,0.71,Homme,40,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,2.08,2,2,5,1,0,1,0,9.2,45,19604.0,0
+441,Centre-Nord,Urbain,10,4,0.67,Homme,46,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,3.11,1,6,5,1,1,0,1,3.1,47,13006.0,0
+442,Sahel,Rural,5,3,1.5,Homme,41,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,3.12,0,6,8,1,0,1,1,16.5,66,64664.0,0
+443,Centre-Nord,Rural,8,4,1.0,Homme,59,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,4.38,2,5,7,0,0,0,1,9.9,53,48704.0,0
+444,Sahel,Rural,4,2,1.0,Homme,41,Secondaire,Chaume/Paille,Dur,Puits non protege,1,0.71,3,2,5,1,1,1,1,10.0,46,11044.0,1
+445,Sahel,Rural,7,3,0.75,Homme,42,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.32,0,4,9,1,0,1,0,25.9,87,36133.0,1
+446,Centre-Nord,Rural,6,4,2.0,Homme,56,Primaire,Dur (beton/tuile),Banco (terre),Puits non protege,1,1.78,2,3,5,1,1,1,1,15.1,40,16310.0,0
+447,Boucle du Mouhoun,Rural,5,3,1.5,Homme,69,Secondaire,Tole,Brique de ciment,Robinet/Eau courante,1,1.38,3,1,7,1,1,1,1,,58,21400.0,0
+448,Nord,Urbain,1,1,0.0,Homme,63,Primaire,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,4,4,7,1,1,0,1,5.6,64,15339.0,0
+449,Sahel,Rural,9,4,0.8,Homme,43,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.61,0,7,4,1,1,1,0,6.8,56,10934.0,1
+450,Nord,Rural,8,3,0.6,Homme,44,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,5.33,0,5,2,0,1,1,0,6.1,39,26357.0,1
+451,Sahel,Rural,6,4,2.0,Homme,46,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,1.39,2,6,5,1,0,1,1,8.8,39,63129.0,1
+452,Boucle du Mouhoun,Rural,6,4,2.0,Homme,47,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.54,2,4,6,1,1,1,1,11.6,64,17735.0,1
+453,Centre-Nord,Rural,7,3,0.75,Femme,34,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,4.67,1,6,6,0,0,0,0,7.0,71,40179.0,0
+454,Sahel,Rural,7,4,1.33,Homme,57,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,0.72,1,6,3,0,0,1,0,13.5,53,43120.0,0
+455,Sahel,Rural,11,6,1.2,Femme,48,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,3.12,0,8,10,1,0,0,0,6.5,33,37227.0,0
+456,Sahel,Urbain,4,2,1.0,Homme,44,Aucun,Tole,Brique de ciment,Puits non protege,1,1.82,0,3,5,1,0,1,1,4.9,54,66066.0,0
+457,Boucle du Mouhoun,Urbain,12,6,1.0,Homme,28,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,5.31,1,4,3,1,0,0,0,9.0,78,41351.0,0
+458,Est,Rural,8,3,0.6,Femme,46,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,3.61,2,3,2,1,1,0,1,21.6,38,60603.0,0
+459,Centre-Nord,Urbain,6,2,0.5,Homme,20,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.36,0,5,10,1,1,1,0,13.6,49,16056.0,0
+460,Nord,Urbain,6,4,2.0,Homme,37,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,4.69,2,5,10,0,1,1,0,11.8,55,37625.0,1
+461,Nord,Urbain,11,5,0.83,Homme,38,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.27,2,6,5,1,1,1,0,6.1,71,53099.0,0
+462,Sahel,Rural,11,6,1.2,Homme,49,Secondaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,1,5,0,1,1,0,13.9,45,19008.0,1
+463,Boucle du Mouhoun,Urbain,8,5,1.67,Homme,69,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.79,1,4,13,1,1,1,0,4.6,62,5604.0,1
+464,Est,Urbain,9,6,2.0,Femme,52,Aucun,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,3.21,3,2,5,1,1,1,1,8.6,76,15210.0,0
+465,Nord,Urbain,9,4,0.8,Homme,64,Primaire,Tole,Dur,Puits protege/Forage,1,1.3,2,4,9,0,0,0,0,1.9,30,19416.0,0
+466,Nord,Rural,5,2,0.67,Homme,53,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,1,1.02,0,2,6,1,0,0,0,11.1,33,34632.0,1
+467,Nord,Rural,7,3,0.75,Homme,60,Primaire,Dur (beton/tuile),Brique de ciment,Puits non protege,1,0.82,0,5,8,1,1,1,1,5.9,52,20850.0,0
+468,Boucle du Mouhoun,Rural,5,3,1.5,Homme,69,Aucun,Tole,Banco (terre),Puits protege/Forage,1,2.06,1,2,5,0,0,0,0,15.3,69,26941.0,0
+469,Sahel,Rural,8,4,1.0,Homme,35,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,0.87,0,5,3,1,1,1,0,13.5,59,20497.0,0
+470,Nord,Rural,5,3,1.5,Homme,35,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,3.25,2,5,7,1,1,1,1,18.5,71,25391.0,1
+471,Est,Rural,9,4,0.8,Homme,54,Aucun,Dur (beton/tuile),Banco (terre),Puits protege/Forage,0,0.0,0,4,3,1,1,1,0,6.2,27,26113.0,0
+472,Est,Rural,5,2,0.67,Homme,45,Aucun,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,2,3,5,1,0,0,0,25.8,59,20240.0,1
+473,Sahel,Rural,11,7,1.75,Homme,48,Primaire,Tole,Brique de ciment,Puits protege/Forage,0,0.0,2,2,9,1,1,1,0,9.6,8,38932.0,1
+474,Sahel,Urbain,8,5,1.67,Homme,42,Secondaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,4,7,1,0,1,0,11.2,75,50068.0,0
+475,Sahel,Rural,4,2,1.0,Homme,37,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.9,0,4,3,1,1,1,0,6.7,73,16043.0,0
+476,Est,Rural,9,5,1.25,Homme,66,Secondaire,Chaume/Paille,Dur,Puits protege/Forage,1,0.18,0,3,4,1,1,1,1,11.5,49,29667.0,0
+477,Est,Urbain,6,3,1.0,Homme,31,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.19,1,4,9,1,1,1,0,5.1,17,14139.0,1
+478,Nord,Urbain,7,4,1.33,Homme,54,Secondaire,Tole,Dur,Puits non protege,1,3.18,2,7,10,1,1,0,1,9.5,50,12225.0,0
+479,Nord,Urbain,10,5,1.0,Femme,52,Secondaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,0,0.0,4,3,7,1,0,0,1,1.1,72,42892.0,0
+480,Est,Urbain,4,2,1.0,Homme,24,Primaire,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,0,4,7,0,1,1,0,2.5,60,66392.0,1
+481,Est,Urbain,12,4,0.5,Homme,34,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,0,0.0,2,4,6,1,1,0,0,12.0,83,23208.0,1
+482,Sahel,Rural,12,5,0.71,Femme,36,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.03,2,3,5,1,1,0,0,6.5,49,61389.0,0
+483,Nord,Rural,8,5,1.67,Homme,52,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,3,6,3,1,1,0,0,9.2,86,20097.0,1
+484,Est,Rural,5,2,0.67,Femme,40,Primaire,Dur (beton/tuile),Brique de ciment,Puits non protege,1,1.26,0,3,5,0,1,1,1,8.7,21,24209.0,0
+485,Sahel,Rural,9,3,0.5,Homme,44,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.76,0,5,6,1,1,1,0,10.9,42,56981.0,1
+486,Est,Urbain,7,3,0.75,Homme,26,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.01,3,5,8,1,1,1,0,3.0,33,17842.0,0
+487,Est,Rural,12,6,1.0,Homme,75,Secondaire,Tole,Brique de ciment,Puits non protege,0,0.0,1,4,8,0,1,0,0,16.7,66,40640.0,0
+488,Sahel,Rural,9,5,1.25,Homme,46,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.49,1,2,5,1,0,0,1,11.0,34,23001.0,1
+489,Nord,Rural,12,6,1.0,Homme,51,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.8,1,6,5,1,1,0,0,17.6,70,19452.0,1
+490,Nord,Rural,9,5,1.25,Homme,38,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,1,4,6,1,0,1,0,13.5,65,21398.0,1
+491,Centre-Nord,Rural,8,5,1.67,Femme,37,Primaire,Tole,Banco (terre),Puits protege/Forage,1,3.85,0,6,8,1,0,1,0,10.8,57,10140.0,0
+492,Nord,Rural,10,5,1.0,Homme,70,Superieur,Tole,Banco (terre),Puits non protege,1,1.12,0,6,8,0,1,0,1,4.4,52,47453.0,0
+493,Nord,Urbain,7,4,1.33,Femme,20,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,0.99,0,2,5,1,1,0,0,8.5,37,29787.0,1
+494,Est,Rural,10,4,0.67,Femme,49,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,0.99,0,3,6,1,1,0,0,12.4,63,25170.0,1
+495,Centre-Nord,Urbain,6,3,1.0,Homme,29,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,2.49,3,5,6,1,1,1,1,13.4,46,19696.0,0
+496,Nord,Urbain,6,2,0.5,Homme,40,Primaire,Tole,Brique de ciment,Puits non protege,1,2.95,1,5,3,1,1,1,1,6.4,66,30955.0,0
+497,Est,Rural,7,3,0.75,Femme,37,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,3.73,1,2,9,1,1,1,0,4.2,78,40037.0,0
+498,Nord,Rural,4,1,0.33,Homme,32,Aucun,Tole,Dur,Puits protege/Forage,1,5.89,1,3,7,1,1,1,1,10.0,49,23777.0,0
+499,Est,Urbain,6,2,0.5,Homme,45,Aucun,Tole,Banco (terre),Puits protege/Forage,1,2.07,1,4,8,0,0,0,0,8.8,75,41507.0,0
+500,Nord,Rural,6,4,2.0,Homme,18,Aucun,Tole,Brique de ciment,Puits non protege,1,0.88,2,4,7,1,1,1,1,9.9,57,30449.0,1
+501,Centre-Nord,Urbain,7,4,1.33,Homme,41,Secondaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,5,5,4,1,0,1,1,4.1,63,25796.0,0
+502,Boucle du Mouhoun,Rural,7,4,1.33,Femme,44,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,1,0.71,0,4,3,1,1,0,0,13.9,32,40561.0,1
+503,Boucle du Mouhoun,Urbain,8,4,1.0,Homme,27,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.79,3,4,6,1,1,1,0,0.9,43,21406.0,0
+504,Nord,Urbain,8,4,1.0,Homme,65,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,0.82,0,3,12,1,0,1,0,5.9,42,15318.0,1
+505,Nord,Rural,4,2,1.0,Femme,37,Aucun,Tole,Dur,Puits protege/Forage,0,0.0,3,1,5,1,1,1,0,8.3,75,26268.0,0
+506,Centre-Nord,Rural,8,4,1.0,Homme,42,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.95,2,8,8,0,0,1,0,6.5,48,27334.0,0
+507,Est,Urbain,7,3,0.75,Homme,37,Secondaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,0,0.0,2,4,6,1,0,1,1,6.9,64,24342.0,0
+508,Centre-Nord,Rural,8,5,1.67,Homme,44,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.88,0,4,6,0,0,0,0,18.6,52,45957.0,1
+509,Est,Rural,6,4,2.0,Homme,62,Aucun,Dur (beton/tuile),Brique de ciment,Robinet/Eau courante,1,2.69,2,4,7,1,1,0,0,6.9,48,33699.0,0
+510,Sahel,Rural,6,2,0.5,Homme,77,Superieur,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.47,3,3,4,1,0,1,0,12.5,30,25546.0,0
+511,Sahel,Rural,4,2,1.0,Homme,55,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,2.48,2,3,6,0,1,0,0,11.7,23,26837.0,1
+512,Centre-Nord,Urbain,7,4,1.33,Homme,59,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,5.8,0,2,5,0,1,1,0,2.1,48,27897.0,0
+513,Sahel,Urbain,8,4,1.0,Homme,67,Primaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,1,2,6,1,1,1,1,7.6,49,34089.0,0
+514,Est,Rural,9,3,0.5,Homme,48,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,3.33,0,5,8,1,1,0,0,8.5,40,27547.0,1
+515,Est,Urbain,6,3,1.0,Homme,65,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,0.34,0,4,4,1,1,1,0,3.5,56,25097.0,0
+516,Sahel,Rural,12,7,1.4,Homme,55,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.62,0,5,5,1,1,1,0,7.4,85,14759.0,0
+517,Est,Rural,8,4,1.0,Homme,47,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,1,1.51,0,4,7,1,1,0,0,26.8,78,19547.0,1
+518,Centre-Nord,Rural,4,2,1.0,Femme,50,Aucun,Tole,Dur,Puits non protege,0,0.0,2,5,2,1,1,1,0,5.3,53,30475.0,0
+519,Sahel,Urbain,8,3,0.6,Femme,21,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,0.81,0,4,7,0,0,0,0,11.6,54,29278.0,1
+520,Centre-Nord,Rural,8,5,1.67,Homme,49,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.01,2,3,3,1,0,1,0,8.9,63,13789.0,1
+521,Centre-Nord,Rural,3,1,0.5,Homme,25,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,2.29,1,2,7,1,1,1,0,6.7,57,20892.0,0
+522,Est,Rural,8,3,0.6,Homme,24,Primaire,Chaume/Paille,Dur,Puits non protege,1,3.36,0,5,7,1,0,1,0,8.2,63,17705.0,0
+523,Sahel,Urbain,8,4,1.0,Homme,48,Primaire,Tole,Banco (terre),Puits protege/Forage,1,2.43,3,1,7,1,0,1,1,12.2,57,49716.0,0
+524,Nord,Rural,5,3,1.5,Femme,31,Aucun,Tole,Banco (terre),Puits protege/Forage,1,2.54,3,2,2,0,0,1,1,16.6,54,30122.0,0
+525,Sahel,Rural,6,3,1.0,Femme,45,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,0,0.0,2,2,6,0,0,1,0,6.6,43,32652.0,1
+526,Est,Urbain,7,2,0.4,Homme,47,Aucun,Dur (beton/tuile),Dur,Puits non protege,0,0.0,2,4,3,0,1,0,0,7.5,59,26107.0,0
+527,Boucle du Mouhoun,Rural,5,2,0.67,Homme,47,Secondaire,Tole,Banco (terre),Puits non protege,1,1.46,1,5,1,1,0,0,0,11.1,17,20295.0,1
+528,Boucle du Mouhoun,Rural,6,3,1.0,Femme,33,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.83,0,6,5,1,1,1,0,8.8,57,22017.0,0
+529,Centre-Nord,Rural,5,2,0.67,Homme,57,Aucun,Tole,Banco (terre),Puits protege/Forage,1,3.46,1,1,6,0,0,1,1,12.0,20,,0
+530,Est,Rural,7,3,0.75,Homme,44,Primaire,Dur (beton/tuile),Brique de ciment,Puits non protege,1,5.05,1,7,5,1,1,0,1,13.3,57,23932.0,0
+531,Nord,Rural,6,4,2.0,Homme,51,Primaire,Tole,Banco (terre),Puits non protege,1,2.15,3,2,6,0,1,1,0,6.5,37,,1
+532,Centre-Nord,Urbain,11,4,0.57,Homme,29,Aucun,Tole,Banco (terre),Puits protege/Forage,1,3.22,0,5,5,0,1,1,0,,73,28691.0,0
+533,Est,Urbain,7,4,1.33,Homme,43,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,1,4,1,1,0,0,2.1,54,30730.0,1
+534,Nord,Urbain,5,2,0.67,Homme,59,Aucun,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,0,2,4,1,1,1,0,4.1,53,31444.0,1
+535,Sahel,Urbain,5,3,1.5,Homme,58,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.55,4,6,6,1,0,0,0,4.8,59,21231.0,1
+536,Sahel,Rural,3,2,2.0,Homme,35,Aucun,Tole,Brique de ciment,Puits non protege,1,2.39,2,4,3,1,1,0,1,14.0,39,23391.0,0
+537,Nord,Rural,7,3,0.75,Femme,38,Primaire,Tole,Banco (terre),Puits protege/Forage,1,5.13,3,2,4,0,1,0,0,9.3,71,40497.0,0
+538,Sahel,Urbain,6,3,1.0,Femme,32,Aucun,Tole,Banco (terre),Puits protege/Forage,1,2.06,0,3,6,1,1,1,1,4.1,64,61198.0,0
+539,Sahel,Rural,7,4,1.33,Homme,36,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,1,0.29,0,2,7,0,0,0,1,5.2,44,40664.0,1
+540,Centre-Nord,Urbain,9,5,1.25,Homme,27,Secondaire,Tole,Brique de ciment,Puits non protege,1,2.56,0,1,8,1,1,1,0,11.9,36,7669.0,1
+541,Boucle du Mouhoun,Urbain,2,1,1.0,Femme,43,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,1.18,2,7,3,1,1,1,0,2.6,46,19128.0,0
+542,Nord,Rural,13,6,0.86,Homme,53,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,0,0.0,0,10,5,1,1,1,0,16.6,50,28328.0,1
+543,Centre-Nord,Rural,9,6,2.0,Homme,35,Aucun,Tole,Brique de ciment,Puits non protege,1,2.71,4,4,7,1,1,1,1,7.8,35,16413.0,0
+544,Boucle du Mouhoun,Rural,11,4,0.57,Homme,44,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.27,2,4,7,1,1,1,1,6.3,45,16070.0,1
+545,Sahel,Rural,5,2,0.67,Homme,42,Primaire,Tole,Banco (terre),Puits non protege,1,1.49,2,5,7,0,0,1,1,9.7,43,22283.0,1
+546,Est,Rural,8,3,0.6,Femme,59,Primaire,Tole,Brique de ciment,Puits protege/Forage,0,0.0,0,1,4,0,0,1,0,6.9,49,31426.0,0
+547,Est,Rural,6,4,2.0,Homme,37,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,2.04,0,1,8,1,1,0,1,8.5,49,35521.0,1
+548,Sahel,Urbain,8,3,0.6,Homme,38,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.87,1,4,5,0,1,1,0,5.6,60,22804.0,0
+549,Centre-Nord,Urbain,7,3,0.75,Femme,34,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.66,0,6,6,1,1,1,1,9.3,52,22030.0,1
+550,Est,Urbain,9,5,1.25,Homme,30,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,5.07,4,4,6,1,0,1,1,17.1,58,18404.0,0
+551,Est,Rural,7,3,0.75,Femme,52,Secondaire,Tole,Brique de ciment,Puits non protege,1,1.89,2,4,6,1,0,1,1,7.5,56,33799.0,0
+552,Sahel,Rural,4,2,1.0,Homme,43,Secondaire,Tole,Dur,Puits protege/Forage,1,0.73,1,7,1,1,1,1,0,10.1,49,32792.0,0
+553,Sahel,Rural,12,6,1.0,Homme,46,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,1.03,0,4,8,1,0,1,0,5.8,63,40464.0,1
+554,Boucle du Mouhoun,Rural,5,2,0.67,Femme,62,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,5.23,0,4,6,0,1,1,1,12.3,8,28521.0,1
+555,Sahel,Urbain,6,4,2.0,Femme,62,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,3.93,6,4,6,1,0,0,0,6.4,46,14913.0,0
+556,Sahel,Rural,5,2,0.67,Femme,24,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,1,0.93,3,6,8,0,1,1,0,5.1,43,22994.0,0
+557,Est,Rural,6,4,2.0,Femme,53,Secondaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,0.61,2,4,2,0,0,1,1,10.6,54,39562.0,0
+558,Est,Urbain,9,4,0.8,Homme,48,Superieur,Chaume/Paille,Dur,Puits protege/Forage,1,0.65,0,1,6,1,1,1,1,2.8,42,12321.0,0
+559,Nord,Rural,13,5,0.62,Homme,39,Aucun,Tole,Banco (terre),Puits protege/Forage,1,3.65,0,2,4,1,0,1,1,8.5,61,25896.0,1
+560,Est,Rural,7,3,0.75,Homme,49,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,0,0.0,0,1,5,0,1,1,0,18.5,64,30587.0,1
+561,Sahel,Rural,10,5,1.0,Femme,23,Primaire,Dur (beton/tuile),Brique de ciment,Robinet/Eau courante,1,0.39,3,3,8,1,0,1,1,5.3,30,66281.0,0
+562,Sahel,Urbain,7,3,0.75,Homme,64,Aucun,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,1,3,4,0,1,1,1,8.8,56,20527.0,1
+563,Centre-Nord,Urbain,10,4,0.67,Homme,52,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.02,4,4,10,1,1,1,0,2.5,32,25470.0,0
+564,Nord,Rural,9,6,2.0,Femme,34,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.47,0,5,5,1,0,0,0,6.1,60,57493.0,0
+565,Nord,Urbain,13,6,0.86,Femme,37,Aucun,Chaume/Paille,Brique de ciment,Puits non protege,1,3.98,2,2,4,1,0,1,1,3.4,45,20646.0,1
+566,Nord,Urbain,8,5,1.67,Femme,23,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,2.04,0,2,5,1,1,1,0,2.0,39,43635.0,1
+567,Centre-Nord,Urbain,8,3,0.6,Homme,41,Primaire,Tole,Brique de ciment,Puits protege/Forage,0,0.0,0,2,4,1,1,0,0,19.7,25,32103.0,0
+568,Sahel,Rural,7,3,0.75,Homme,39,Primaire,Tole,Banco (terre),Puits non protege,1,3.09,0,1,8,1,0,0,0,5.2,51,24356.0,0
+569,Est,Rural,9,5,1.25,Femme,28,Primaire,Chaume/Paille,Dur,Puits non protege,1,2.97,0,6,6,1,0,1,1,5.8,33,32966.0,1
+570,Nord,Urbain,7,3,0.75,Homme,55,Aucun,Tole,Dur,Robinet/Eau courante,1,1.05,1,1,9,0,1,0,0,0.9,28,25175.0,0
+571,Est,Rural,6,2,0.5,Homme,62,Primaire,Chaume/Paille,Brique de ciment,Robinet/Eau courante,0,0.0,1,2,5,1,1,1,0,6.8,55,74311.0,0
+572,Centre-Nord,Rural,8,3,0.6,Femme,45,Aucun,Chaume/Paille,Dur,Puits non protege,1,1.92,2,7,5,0,1,1,0,9.8,68,10620.0,0
+573,Est,Urbain,9,3,0.5,Homme,41,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.73,1,6,2,1,1,0,0,6.2,58,23692.0,0
+574,Centre-Nord,Rural,6,3,1.0,Homme,51,Aucun,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,0,3,6,1,0,1,0,10.8,29,24006.0,1
+575,Centre-Nord,Urbain,5,2,0.67,Homme,45,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,2.18,1,4,9,1,0,1,0,7.1,50,25329.0,0
+576,Nord,Urbain,8,5,1.67,Homme,31,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,4.81,0,4,11,1,0,0,0,10.5,63,43748.0,0
+577,Boucle du Mouhoun,Urbain,10,4,0.67,Femme,37,Primaire,Tole,Banco (terre),Puits non protege,1,1.3,0,2,11,1,1,0,0,14.7,50,22001.0,1
+578,Nord,Rural,9,4,0.8,Homme,41,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,2.25,3,3,5,1,0,1,0,12.2,57,33571.0,0
+579,Centre-Nord,Urbain,9,4,0.8,Homme,48,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,0.62,2,5,8,0,1,0,0,5.6,45,29857.0,0
+580,Est,Rural,9,5,1.25,Homme,45,Secondaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,0.81,1,7,7,1,0,0,0,6.6,46,39235.0,0
+581,Est,Urbain,11,7,1.75,Femme,48,Aucun,Tole,Brique de ciment,Puits non protege,1,1.64,0,5,7,1,0,1,0,6.0,41,25293.0,1
+582,Nord,Urbain,7,4,1.33,Femme,25,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,0.71,0,4,2,1,1,0,0,8.0,62,31101.0,1
+583,Sahel,Urbain,5,2,0.67,Homme,54,Aucun,Dur (beton/tuile),Dur,Puits non protege,1,2.59,0,5,10,0,1,1,0,4.4,63,25450.0,0
+584,Est,Rural,9,4,0.8,Homme,45,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.32,0,4,3,1,1,0,0,13.2,43,17262.0,1
+585,Boucle du Mouhoun,Rural,7,4,1.33,Homme,78,Secondaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.94,3,6,7,1,0,0,0,11.0,64,55247.0,0
+586,Nord,Rural,8,3,0.6,Homme,40,Primaire,Tole,Banco (terre),Puits non protege,1,1.37,0,5,8,1,1,1,0,7.0,29,19092.0,0
+587,Sahel,Rural,5,3,1.5,Homme,49,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,3.67,0,6,10,1,1,0,1,7.4,49,21692.0,1
+588,Est,Rural,6,3,1.0,Homme,82,Aucun,Tole,Brique de ciment,Puits non protege,1,1.9,0,1,4,1,1,1,0,15.6,30,18296.0,1
+589,Sahel,Rural,8,4,1.0,Homme,48,Secondaire,Tole,Banco (terre),Puits non protege,0,0.0,0,5,7,1,0,1,1,4.9,34,32238.0,0
+590,Sahel,Rural,7,3,0.75,Homme,44,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.38,0,3,5,0,1,1,0,5.1,30,21695.0,1
+591,Boucle du Mouhoun,Urbain,6,3,1.0,Homme,32,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.51,5,3,10,1,1,1,0,2.2,42,53202.0,0
+592,Est,Urbain,8,5,1.67,Homme,65,Superieur,Chaume/Paille,Banco (terre),Puits non protege,1,1.64,0,6,3,1,1,0,0,20.6,62,34210.0,1
+593,Est,Rural,14,7,1.0,Homme,30,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.34,3,3,7,1,0,1,0,11.2,51,23752.0,1
+594,Nord,Urbain,10,6,1.5,Homme,51,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.45,1,4,5,1,1,1,1,3.3,43,17865.0,0
+595,Sahel,Urbain,11,6,1.2,Homme,39,Aucun,Dur (beton/tuile),Banco (terre),Puits non protege,1,1.41,0,4,6,0,1,1,0,7.3,49,25596.0,1
+596,Sahel,Rural,3,1,0.5,Homme,43,Aucun,Tole,Banco (terre),Puits protege/Forage,1,2.76,2,4,8,1,1,1,1,7.1,19,33997.0,0
+597,Centre-Nord,Rural,5,2,0.67,Femme,26,Secondaire,Tole,Banco (terre),Puits non protege,0,0.0,1,3,0,1,1,1,1,9.6,61,26353.0,0
+598,Nord,Urbain,4,2,1.0,Homme,62,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,1.28,1,4,4,0,1,1,1,3.7,16,25257.0,0
+599,Boucle du Mouhoun,Urbain,6,4,2.0,Femme,41,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.17,0,5,4,1,1,0,0,7.1,41,16997.0,1
+600,Nord,Urbain,7,3,0.75,Homme,29,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.84,0,0,4,1,0,0,0,4.7,51,73822.0,0
+601,Est,Urbain,6,4,2.0,Homme,61,Primaire,Tole,Brique de ciment,Robinet/Eau courante,1,0.7,0,4,3,0,1,1,1,3.4,59,24575.0,0
+602,Centre-Nord,Urbain,8,4,1.0,Homme,38,Primaire,Tole,Banco (terre),Puits non protege,0,0.0,0,6,7,1,0,1,0,5.6,56,14494.0,1
+603,Boucle du Mouhoun,Rural,6,3,1.0,Homme,49,Primaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,0,0.0,1,5,5,1,0,0,1,8.0,51,16585.0,0
+604,Centre-Nord,Urbain,5,3,1.5,Femme,56,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,0,0.0,0,5,7,1,1,0,0,4.0,75,23044.0,1
+605,Boucle du Mouhoun,Rural,13,7,1.17,Femme,51,Primaire,Tole,Brique de ciment,Puits non protege,1,1.85,0,5,12,1,0,1,1,5.5,84,64547.0,0
+606,Centre-Nord,Urbain,8,4,1.0,Homme,18,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,0.4,3,7,6,1,0,1,1,7.0,52,24917.0,1
+607,Centre-Nord,Rural,8,4,1.0,Homme,54,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,2.06,0,1,3,0,1,1,0,28.9,50,22728.0,0
+608,Sahel,Rural,8,3,0.6,Homme,44,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.95,0,4,5,1,1,0,1,9.7,49,39345.0,0
+609,Centre-Nord,Urbain,10,5,1.0,Femme,41,Aucun,Tole,Banco (terre),Robinet/Eau courante,0,0.0,2,2,14,1,1,1,1,4.2,42,40658.0,0
+610,Est,Rural,6,3,1.0,Femme,44,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.07,0,7,8,1,0,1,0,8.3,58,36192.0,0
+611,Nord,Urbain,7,4,1.33,Homme,24,Aucun,Tole,Banco (terre),Puits protege/Forage,1,2.8,3,5,5,1,1,1,0,11.3,72,29435.0,0
+612,Nord,Rural,8,4,1.0,Femme,47,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,2.57,0,2,4,1,0,0,1,4.2,12,16367.0,0
+613,Boucle du Mouhoun,Urbain,8,3,0.6,Femme,27,Superieur,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,2.66,0,5,8,0,0,1,1,5.9,49,19188.0,0
+614,Boucle du Mouhoun,Urbain,5,3,1.5,Homme,41,Aucun,Tole,Banco (terre),Puits protege/Forage,1,4.09,1,2,8,1,0,1,1,4.9,76,13149.0,0
+615,Est,Rural,8,4,1.0,Homme,47,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,2.2,0,4,10,1,1,1,1,8.7,58,24324.0,0
+616,Centre-Nord,Urbain,7,4,1.33,Femme,59,Primaire,Tole,Banco (terre),Robinet/Eau courante,0,0.0,4,3,4,1,1,1,0,5.4,59,22223.0,0
+617,Centre-Nord,Rural,5,3,1.5,Homme,34,Aucun,Dur (beton/tuile),Brique de ciment,Puits non protege,1,0.74,2,8,4,1,0,1,0,6.3,26,21209.0,0
+618,Est,Rural,6,3,1.0,Homme,64,Aucun,Tole,Brique de ciment,Robinet/Eau courante,1,2.21,0,6,9,1,1,1,0,6.4,63,30506.0,0
+619,Sahel,Urbain,6,3,1.0,Femme,57,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.43,0,4,7,0,1,0,0,1.3,68,20016.0,1
+620,Sahel,Urbain,12,5,0.71,Homme,39,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,4,4,7,1,0,1,1,7.1,55,23082.0,0
+621,Centre-Nord,Rural,10,4,0.67,Femme,31,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,2.52,0,4,2,1,1,1,1,4.4,42,21615.0,1
+622,Est,Rural,9,5,1.25,Homme,26,Secondaire,Tole,Brique de ciment,Puits non protege,1,0.53,3,8,9,1,1,0,1,10.1,59,26520.0,0
+623,Boucle du Mouhoun,Urbain,9,4,0.8,Homme,49,Aucun,Dur (beton/tuile),Banco (terre),Robinet/Eau courante,1,2.56,3,2,7,0,1,1,1,3.4,35,31700.0,0
+624,Est,Rural,11,4,0.57,Femme,35,Aucun,Tole,Banco (terre),Robinet/Eau courante,0,0.0,0,3,5,1,1,0,1,6.3,33,14691.0,1
+625,Boucle du Mouhoun,Rural,6,2,0.5,Homme,61,Primaire,Chaume/Paille,Dur,Puits protege/Forage,1,2.1,2,3,10,1,1,1,0,9.6,65,32990.0,0
+626,Est,Rural,6,3,1.0,Homme,36,Aucun,Dur (beton/tuile),Banco (terre),Robinet/Eau courante,0,0.0,3,2,3,1,0,1,1,7.8,70,30300.0,0
+627,Centre-Nord,Rural,7,5,2.5,Homme,33,Aucun,Tole,Banco (terre),Puits protege/Forage,1,2.63,0,3,4,1,1,0,0,9.5,40,32480.0,1
+628,Sahel,Urbain,6,2,0.5,Homme,48,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,3.32,0,5,4,1,0,1,1,2.5,33,28565.0,0
+629,Nord,Rural,10,4,0.67,Homme,36,Aucun,Dur (beton/tuile),Dur,Puits non protege,1,10.59,0,3,11,1,0,1,0,10.6,38,31657.0,0
+630,Centre-Nord,Rural,8,5,1.67,Homme,45,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,2.0,0,4,7,1,1,1,1,8.8,55,22314.0,1
+631,Boucle du Mouhoun,Urbain,5,3,1.5,Femme,58,Aucun,Tole,Banco (terre),Puits protege/Forage,1,3.24,0,7,7,1,0,1,0,8.9,33,32844.0,1
+632,Centre-Nord,Rural,6,3,1.0,Femme,47,Secondaire,Tole,Banco (terre),Puits non protege,1,0.71,0,4,6,1,1,1,0,5.6,73,45029.0,0
+633,Sahel,Urbain,7,4,1.33,Homme,47,Superieur,Dur (beton/tuile),Banco (terre),Puits protege/Forage,0,0.0,2,3,2,1,1,1,0,3.8,45,21527.0,0
+634,Est,Rural,4,2,1.0,Homme,48,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.43,2,6,9,1,0,1,0,7.4,58,21882.0,0
+635,Sahel,Urbain,5,3,1.5,Homme,23,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,5.02,2,2,8,1,1,1,1,7.7,40,35729.0,0
+636,Sahel,Urbain,11,4,0.57,Homme,50,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,1.85,0,3,5,1,0,1,0,10.4,61,20967.0,0
+637,Nord,Urbain,5,2,0.67,Femme,47,Primaire,Tole,Brique de ciment,Puits non protege,1,0.48,2,4,3,0,1,0,0,5.8,63,19464.0,1
+638,Centre-Nord,Rural,14,6,0.75,Homme,57,Aucun,Chaume/Paille,Dur,Robinet/Eau courante,0,0.0,0,1,3,1,0,1,0,8.6,25,32532.0,0
+639,Centre-Nord,Rural,13,7,1.17,Femme,53,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,0,0.0,0,1,6,1,0,0,0,,41,22165.0,1
+640,Centre-Nord,Urbain,8,3,0.6,Homme,42,Primaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,1.45,0,2,9,0,1,1,1,4.0,49,46620.0,0
+641,Centre-Nord,Rural,9,4,0.8,Homme,58,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.44,0,3,5,0,1,1,1,18.6,44,21812.0,1
+642,Centre-Nord,Rural,12,7,1.4,Femme,41,Superieur,Chaume/Paille,Banco (terre),Puits protege/Forage,1,3.01,2,3,4,1,0,0,0,6.9,66,18609.0,1
+643,Sahel,Rural,8,3,0.6,Homme,48,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,1.55,6,6,6,1,0,1,1,4.7,42,26845.0,1
+644,Sahel,Urbain,6,4,2.0,Femme,41,Aucun,Tole,Banco (terre),Puits non protege,1,3.77,2,6,10,1,1,1,0,1.5,63,32727.0,1
+645,Nord,Urbain,8,4,1.0,Femme,51,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.04,2,6,7,1,0,0,1,3.9,60,31074.0,0
+646,Centre-Nord,Urbain,12,5,0.71,Homme,40,Aucun,Tole,Banco (terre),Puits non protege,0,0.0,0,1,7,1,1,0,1,19.2,50,34287.0,1
+647,Sahel,Urbain,2,1,1.0,Homme,66,Superieur,Tole,Banco (terre),Puits non protege,1,1.62,1,3,7,0,0,1,1,2.4,64,20975.0,0
+648,Nord,Rural,11,5,0.83,Homme,71,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.77,0,4,10,0,0,0,0,18.5,27,44845.0,1
+649,Nord,Rural,8,3,0.6,Femme,56,Aucun,Tole,Dur,Puits non protege,1,1.01,3,3,6,1,0,1,1,9.8,51,12773.0,0
+650,Sahel,Rural,4,2,1.0,Femme,65,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,1,2.06,2,5,5,1,0,1,0,6.4,40,18932.0,1
+651,Est,Urbain,6,3,1.0,Homme,25,Secondaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,7,8,1,1,0,0,4.1,50,27372.0,0
+652,Boucle du Mouhoun,Rural,9,4,0.8,Homme,27,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.1,0,3,6,0,1,1,0,13.5,44,19659.0,1
+653,Nord,Urbain,3,1,0.5,Homme,41,Secondaire,Chaume/Paille,Dur,Puits protege/Forage,1,0.61,1,5,9,0,0,1,0,4.5,53,23403.0,0
+654,Sahel,Urbain,4,2,1.0,Homme,46,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.47,0,7,8,0,0,1,0,2.5,52,17296.0,1
+655,Centre-Nord,Rural,8,4,1.0,Femme,42,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.74,4,5,8,1,0,0,1,7.9,54,24498.0,0
+656,Est,Rural,9,5,1.25,Femme,24,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,0.44,0,10,6,1,1,0,0,15.0,55,33136.0,0
+657,Centre-Nord,Rural,6,4,2.0,Homme,60,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,0.2,3,6,7,1,1,1,0,27.0,61,21142.0,0
+658,Est,Urbain,4,2,1.0,Homme,73,Aucun,Tole,Banco (terre),Puits non protege,1,2.31,2,2,5,1,0,0,0,9.2,32,18114.0,1
+659,Nord,Urbain,7,4,1.33,Homme,62,Aucun,Tole,Dur,Puits protege/Forage,1,0.67,0,7,11,1,1,1,0,15.1,60,21864.0,0
+660,Est,Urbain,8,5,1.67,Homme,59,Aucun,Tole,Banco (terre),Puits non protege,1,2.48,0,6,4,1,1,0,1,9.1,28,44212.0,1
+661,Sahel,Rural,11,6,1.2,Homme,48,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,0,0.0,0,5,4,1,1,1,1,13.0,7,44047.0,1
+662,Boucle du Mouhoun,Rural,9,6,2.0,Femme,34,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.73,1,7,6,1,1,1,1,11.7,84,21695.0,0
+663,Sahel,Rural,3,1,0.5,Homme,46,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,0,0.0,0,3,8,1,0,1,1,10.8,37,33817.0,0
+664,Sahel,Rural,5,3,1.5,Homme,72,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.22,1,4,8,1,0,1,1,7.0,45,26682.0,1
+665,Est,Rural,5,2,0.67,Homme,40,Primaire,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,2.52,2,4,6,0,1,0,0,9.4,22,47946.0,0
+666,Centre-Nord,Rural,12,4,0.5,Homme,39,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.45,1,5,7,1,0,1,0,13.2,45,29325.0,0
+667,Centre-Nord,Urbain,11,7,1.75,Homme,59,Primaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,4,6,6,0,0,1,0,6.8,55,24570.0,1
+668,Boucle du Mouhoun,Rural,7,3,0.75,Femme,60,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,0,0.0,0,5,7,1,1,1,0,5.3,56,,0
+669,Est,Rural,11,7,1.75,Homme,34,Aucun,Chaume/Paille,Dur,Puits protege/Forage,1,0.75,0,4,5,1,1,0,1,14.9,33,17753.0,0
+670,Est,Urbain,12,7,1.4,Homme,42,Primaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,4,7,7,1,1,1,1,8.0,45,31059.0,0
+671,Sahel,Rural,7,4,1.33,Homme,38,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,1,1.28,0,3,5,1,1,0,0,14.5,58,49748.0,1
+672,Nord,Urbain,6,4,2.0,Homme,46,Aucun,Tole,Dur,Puits non protege,0,0.0,4,5,7,1,0,1,0,2.4,56,36307.0,0
+673,Boucle du Mouhoun,Urbain,8,4,1.0,Homme,59,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,4.65,0,2,5,1,1,0,1,1.4,54,19086.0,0
+674,Centre-Nord,Urbain,5,3,1.5,Homme,35,Aucun,Tole,Banco (terre),Puits non protege,1,2.38,1,5,10,0,1,1,1,4.5,64,18629.0,1
+675,Nord,Urbain,11,6,1.2,Homme,59,Primaire,Tole,Brique de ciment,Puits non protege,1,0.99,2,5,3,1,0,0,1,7.0,50,14274.0,0
+676,Est,Rural,3,2,2.0,Femme,46,Aucun,Chaume/Paille,Brique de ciment,Puits non protege,1,0.36,0,3,5,0,0,0,1,17.7,74,52434.0,1
+677,Boucle du Mouhoun,Urbain,6,3,1.0,Homme,75,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,1.78,0,2,5,1,1,1,1,6.4,47,16158.0,0
+678,Est,Rural,10,4,0.67,Homme,49,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,0.41,0,5,8,1,0,0,0,21.5,63,37087.0,0
+679,Sahel,Rural,5,2,0.67,Homme,44,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,5.05,0,7,4,1,1,1,0,7.8,64,14158.0,0
+680,Est,Rural,4,2,1.0,Femme,52,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,1.52,0,3,9,1,0,1,0,11.7,26,85024.0,0
+681,Sahel,Rural,6,3,1.0,Homme,41,Primaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,2,5,1,1,1,0,5.1,59,14635.0,1
+682,Sahel,Urbain,14,6,0.75,Femme,22,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.5,0,7,2,1,1,0,1,9.7,42,27423.0,1
+683,Sahel,Rural,9,5,1.25,Homme,42,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.34,2,4,5,1,1,1,1,17.1,36,46417.0,1
+684,Est,Rural,7,4,1.33,Femme,42,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,3.47,2,4,6,0,0,0,0,10.7,45,19607.0,1
+685,Nord,Rural,9,5,1.25,Homme,24,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,3,6,5,1,0,1,0,6.0,55,34672.0,1
+686,Est,Urbain,9,6,2.0,Homme,44,Aucun,Dur (beton/tuile),Banco (terre),Robinet/Eau courante,0,0.0,0,6,7,1,1,0,0,5.4,27,23699.0,1
+687,Est,Rural,7,4,1.33,Homme,18,Secondaire,Tole,Banco (terre),Puits non protege,0,0.0,1,7,10,1,0,1,0,7.7,52,32038.0,0
+688,Boucle du Mouhoun,Urbain,6,4,2.0,Homme,40,Primaire,Dur (beton/tuile),Banco (terre),Puits non protege,1,1.18,2,6,10,1,1,1,1,4.0,49,43754.0,0
+689,Centre-Nord,Urbain,11,6,1.2,Homme,48,Secondaire,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,0.78,0,5,6,1,1,0,1,5.3,69,22186.0,0
+690,Nord,Rural,5,2,0.67,Homme,46,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,0.89,0,6,7,1,1,0,1,5.9,42,52765.0,0
+691,Est,Urbain,8,5,1.67,Homme,40,Aucun,Dur (beton/tuile),Dur,Puits protege/Forage,1,5.13,0,3,4,1,0,1,0,6.3,71,31527.0,0
+692,Boucle du Mouhoun,Rural,3,1,0.5,Homme,44,Primaire,Tole,Banco (terre),Puits non protege,0,0.0,0,4,3,1,0,0,1,7.9,58,64654.0,0
+693,Sahel,Rural,9,4,0.8,Homme,35,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,3.7,1,3,4,1,1,1,1,11.3,51,,1
+694,Est,Urbain,11,5,0.83,Homme,45,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.04,0,4,7,1,1,0,1,7.3,72,20152.0,1
+695,Boucle du Mouhoun,Urbain,6,3,1.0,Femme,46,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,2.75,0,3,8,1,0,0,0,2.4,83,24233.0,0
+696,Nord,Rural,3,2,2.0,Homme,33,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.73,2,0,6,0,1,1,0,8.3,49,15589.0,1
+697,Centre-Nord,Rural,8,3,0.6,Homme,48,Aucun,Dur (beton/tuile),Banco (terre),Robinet/Eau courante,1,1.35,1,3,6,0,1,1,0,8.2,40,40809.0,0
+698,Nord,Rural,8,5,1.67,Femme,48,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,0,0.0,1,4,4,1,1,0,0,9.2,59,26001.0,0
+699,Nord,Rural,10,4,0.67,Homme,43,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,4.74,0,5,8,1,1,1,0,16.1,29,16063.0,1
+700,Est,Urbain,7,3,0.75,Homme,76,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.85,0,3,7,1,1,1,1,3.2,31,18578.0,0
+701,Sahel,Rural,5,2,0.67,Homme,43,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,2.54,2,7,5,1,0,1,0,8.3,73,18188.0,0
+702,Est,Urbain,3,1,0.5,Homme,41,Primaire,Tole,Brique de ciment,Puits protege/Forage,0,0.0,0,8,5,1,0,1,0,7.3,61,40768.0,0
+703,Sahel,Rural,11,6,1.2,Homme,40,Aucun,Chaume/Paille,Brique de ciment,Puits non protege,1,0.55,2,2,4,0,1,1,0,9.6,38,33048.0,1
+704,Centre-Nord,Urbain,6,2,0.5,Homme,32,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,3.72,3,2,3,1,1,0,1,9.5,102,25345.0,0
+705,Est,Urbain,8,3,0.6,Femme,54,Secondaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,4.02,0,12,6,1,1,0,0,7.2,30,22825.0,1
+706,Nord,Urbain,5,2,0.67,Homme,36,Primaire,Tole,Banco (terre),Puits non protege,1,1.92,0,4,8,1,1,0,0,4.3,62,24163.0,0
+707,Centre-Nord,Rural,9,5,1.25,Homme,38,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.69,7,3,7,1,0,0,1,9.9,39,59964.0,0
+708,Centre-Nord,Rural,4,3,3.0,Homme,38,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,1,0.3,2,4,6,1,1,1,0,15.1,80,24215.0,1
+709,Est,Rural,8,4,1.0,Homme,32,Aucun,Tole,Banco (terre),Puits non protege,0,0.0,0,1,7,1,0,0,0,6.0,44,39573.0,1
+710,Est,Rural,5,3,1.5,Femme,22,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.32,0,0,9,0,1,1,1,6.2,47,23198.0,1
+711,Boucle du Mouhoun,Rural,10,6,1.5,Homme,39,Aucun,Tole,Banco (terre),Puits non protege,1,0.75,0,1,4,0,1,0,0,6.5,23,57361.0,1
+712,Nord,Rural,5,2,0.67,Homme,56,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,3.03,3,3,6,0,1,1,0,8.4,85,15543.0,0
+713,Centre-Nord,Urbain,4,1,0.33,Homme,48,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,0.46,2,7,9,1,1,1,1,4.8,42,38683.0,0
+714,Boucle du Mouhoun,Rural,8,4,1.0,Femme,65,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.42,3,8,4,1,0,1,0,16.2,60,19116.0,0
+715,Centre-Nord,Urbain,11,5,0.83,Homme,55,Aucun,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,2.38,0,5,4,1,1,1,0,3.7,52,72837.0,0
+716,Sahel,Rural,3,1,0.5,Femme,52,Primaire,Dur (beton/tuile),Banco (terre),Puits non protege,1,2.12,4,3,3,1,0,1,0,5.5,43,36820.0,0
+717,Nord,Urbain,7,3,0.75,Homme,69,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.82,0,4,8,1,1,1,0,11.1,16,12498.0,1
+718,Sahel,Rural,5,2,0.67,Homme,44,Secondaire,Dur (beton/tuile),Banco (terre),Puits non protege,1,2.76,1,2,4,0,0,1,0,7.5,48,17692.0,0
+719,Nord,Rural,12,6,1.0,Homme,46,Aucun,Tole,Brique de ciment,Robinet/Eau courante,0,0.0,0,3,5,1,1,1,0,12.5,48,36619.0,0
+720,Boucle du Mouhoun,Rural,7,3,0.75,Homme,45,Primaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.18,2,8,4,1,0,0,0,13.9,57,36171.0,0
+721,Nord,Urbain,5,2,0.67,Homme,65,Aucun,Tole,Dur,Puits non protege,0,0.0,0,6,8,1,0,1,1,6.3,86,34976.0,0
+722,Est,Rural,6,4,2.0,Homme,45,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.91,3,3,6,0,1,1,1,9.2,62,28867.0,1
+723,Sahel,Rural,4,2,1.0,Homme,37,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,2,6,1,1,0,1,6.9,66,23306.0,0
+724,Boucle du Mouhoun,Rural,11,4,0.57,Homme,53,Primaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,3.37,3,4,11,1,0,0,0,6.8,47,,0
+725,Sahel,Urbain,4,2,1.0,Homme,34,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,0.57,0,4,2,1,1,0,0,10.2,31,18236.0,1
+726,Sahel,Rural,12,5,0.71,Homme,52,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.26,0,4,7,0,1,1,0,10.9,48,27558.0,1
+727,Sahel,Rural,5,2,0.67,Homme,50,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,0.6,4,2,10,1,1,1,0,14.2,40,20352.0,1
+728,Sahel,Rural,8,3,0.6,Homme,43,Aucun,Tole,Brique de ciment,Robinet/Eau courante,0,0.0,2,4,8,1,1,1,0,7.7,51,19634.0,0
+729,Est,Urbain,4,2,1.0,Homme,52,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,1.73,3,5,4,0,0,1,0,11.5,44,21883.0,0
+730,Nord,Rural,8,5,1.67,Femme,26,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.71,2,6,9,1,0,0,1,18.3,25,19325.0,1
+731,Est,Rural,16,10,1.67,Homme,47,Primaire,Tole,Brique de ciment,Robinet/Eau courante,1,1.15,0,4,7,1,0,1,0,5.9,72,34454.0,1
+732,Sahel,Urbain,11,6,1.2,Homme,39,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.05,3,3,10,0,1,0,0,2.0,50,13846.0,1
+733,Sahel,Rural,9,5,1.25,Homme,82,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,3.02,2,4,11,1,0,1,1,12.9,47,32662.0,0
+734,Est,Rural,6,3,1.0,Femme,47,Primaire,Tole,Dur,Puits protege/Forage,0,0.0,2,6,5,0,0,1,0,10.0,34,20223.0,0
+735,Sahel,Rural,7,4,1.33,Homme,37,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,4.16,5,5,3,1,0,1,1,8.6,44,27274.0,0
+736,Nord,Rural,7,4,1.33,Homme,27,Secondaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.68,3,0,7,1,1,1,1,13.8,38,24957.0,0
+737,Sahel,Rural,6,3,1.0,Homme,62,Aucun,Tole,Brique de ciment,Robinet/Eau courante,1,2.4,0,4,10,1,0,1,0,7.3,33,,0
+738,Est,Rural,6,3,1.0,Homme,40,Primaire,Tole,Banco (terre),Puits non protege,1,1.08,3,5,6,1,1,1,0,7.5,55,46439.0,0
+739,Est,Urbain,10,6,1.5,Femme,35,Primaire,Tole,Banco (terre),Puits protege/Forage,1,2.16,0,3,6,0,1,0,1,2.1,44,22768.0,0
+740,Est,Urbain,10,5,1.0,Homme,49,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.01,0,6,3,1,1,1,1,10.7,64,36922.0,1
+741,Sahel,Rural,10,4,0.67,Homme,53,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.2,0,1,7,1,1,1,1,5.8,46,37137.0,1
+742,Sahel,Rural,6,2,0.5,Homme,53,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,3.1,0,2,5,1,1,1,0,13.8,54,23798.0,0
+743,Centre-Nord,Rural,7,3,0.75,Femme,45,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,1,2.31,0,6,7,1,1,0,1,11.9,53,,0
+744,Sahel,Urbain,7,3,0.75,Femme,47,Aucun,Dur (beton/tuile),Banco (terre),Puits non protege,1,1.3,0,0,4,0,1,0,0,10.1,58,18089.0,1
+745,Nord,Rural,9,4,0.8,Femme,48,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.98,2,6,7,1,0,1,0,6.3,39,47832.0,0
+746,Est,Urbain,7,3,0.75,Femme,49,Primaire,Dur (beton/tuile),Dur,Puits protege/Forage,0,0.0,0,8,14,1,1,1,0,5.0,66,33579.0,0
+747,Est,Rural,6,3,1.0,Femme,51,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,0.25,1,3,6,1,1,1,1,6.9,33,28638.0,1
+748,Est,Urbain,7,4,1.33,Homme,59,Aucun,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,1.5,1,0,8,1,1,0,0,13.5,53,20844.0,1
+749,Centre-Nord,Rural,8,4,1.0,Homme,46,Primaire,Tole,Brique de ciment,Puits non protege,1,3.05,0,2,8,0,1,1,1,9.7,33,58649.0,0
+750,Centre-Nord,Urbain,15,6,0.67,Homme,34,Primaire,Tole,Banco (terre),Puits non protege,0,0.0,0,4,7,1,1,1,0,3.6,50,18203.0,1
+751,Sahel,Rural,6,3,1.0,Homme,43,Aucun,Tole,Brique de ciment,Puits protege/Forage,0,0.0,0,7,5,1,0,1,1,6.8,66,28649.0,0
+752,Est,Urbain,3,1,0.5,Homme,55,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,2.91,2,5,4,0,1,0,0,6.2,61,33719.0,0
+753,Sahel,Rural,6,3,1.0,Homme,22,Aucun,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,1,1,3,1,0,1,1,7.6,69,14949.0,1
+754,Est,Urbain,7,4,1.33,Homme,22,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,0,0.0,0,3,5,0,1,1,1,4.0,47,19124.0,0
+755,Nord,Urbain,11,4,0.57,Homme,57,Aucun,Chaume/Paille,Dur,Robinet/Eau courante,1,0.6,2,3,5,1,0,0,0,4.9,67,21897.0,1
+756,Sahel,Urbain,9,5,1.25,Homme,65,Aucun,Dur (beton/tuile),Dur,Puits protege/Forage,0,0.0,6,5,6,1,1,0,1,18.7,41,39651.0,0
+757,Est,Rural,7,3,0.75,Homme,29,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.4,3,4,4,1,1,1,0,9.5,45,22092.0,1
+758,Boucle du Mouhoun,Rural,5,3,1.5,Homme,46,Aucun,Tole,Banco (terre),Puits non protege,1,0.5,0,3,6,1,0,1,0,7.5,54,14097.0,1
+759,Sahel,Rural,11,7,1.75,Homme,40,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,2,2,1,1,0,0,9.5,66,13500.0,1
+760,Est,Rural,8,5,1.67,Homme,42,Secondaire,Chaume/Paille,Dur,Puits non protege,1,0.24,0,5,2,1,1,1,1,7.1,43,19051.0,1
+761,Centre-Nord,Rural,9,4,0.8,Homme,49,Aucun,Dur (beton/tuile),Brique de ciment,Puits protege/Forage,0,0.0,0,2,8,1,0,1,1,17.4,63,13759.0,0
+762,Sahel,Urbain,6,3,1.0,Homme,28,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,0,5,8,1,1,1,0,8.7,56,38021.0,1
+763,Sahel,Urbain,9,5,1.25,Homme,31,Aucun,Tole,Brique de ciment,Puits non protege,1,0.79,0,0,5,1,0,0,0,1.9,57,38697.0,1
+764,Sahel,Rural,8,5,1.67,Homme,41,Aucun,Tole,Banco (terre),Puits non protege,1,0.45,0,0,5,1,0,1,0,12.6,38,26989.0,1
+765,Boucle du Mouhoun,Urbain,5,2,0.67,Homme,43,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,1,1.63,0,3,6,1,1,1,0,6.3,46,23899.0,1
+766,Sahel,Urbain,5,2,0.67,Femme,30,Primaire,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,0.78,0,5,10,1,0,0,1,7.6,51,37561.0,0
+767,Sahel,Urbain,4,2,1.0,Femme,55,Secondaire,Tole,Banco (terre),Puits non protege,1,0.83,2,3,9,1,1,0,0,10.8,57,36867.0,0
+768,Sahel,Rural,7,3,0.75,Homme,40,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,1.44,3,2,5,0,0,1,0,6.4,39,17257.0,0
+769,Sahel,Rural,5,3,1.5,Homme,40,Primaire,Tole,Banco (terre),Puits protege/Forage,1,2.53,3,4,2,1,0,0,1,9.0,31,18364.0,1
+770,Nord,Urbain,7,3,0.75,Homme,49,Primaire,Tole,Brique de ciment,Puits non protege,1,0.95,4,3,7,1,1,0,1,7.4,18,36973.0,0
+771,Sahel,Rural,9,4,0.8,Homme,43,Aucun,Chaume/Paille,Dur,Puits protege/Forage,1,0.99,0,2,7,1,0,1,0,14.1,64,30386.0,1
+772,Nord,Rural,9,5,1.25,Homme,56,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,0,1,9,1,1,1,0,12.3,67,35373.0,1
+773,Nord,Urbain,12,6,1.0,Femme,33,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,3.02,0,3,2,1,0,0,0,4.9,20,17993.0,1
+774,Centre-Nord,Urbain,4,3,3.0,Femme,27,Aucun,Tole,Brique de ciment,Puits non protege,1,1.65,0,2,3,1,1,1,0,10.6,53,19182.0,1
+775,Sahel,Urbain,5,3,1.5,Homme,41,Primaire,Tole,Banco (terre),Robinet/Eau courante,0,0.0,0,6,11,1,1,1,0,4.6,46,33148.0,0
+776,Centre-Nord,Urbain,6,4,2.0,Homme,46,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,1,3.22,0,6,7,0,1,1,0,4.0,71,19794.0,1
+777,Nord,Rural,8,5,1.67,Femme,29,Secondaire,Tole,Brique de ciment,Puits non protege,1,0.94,2,3,4,0,1,1,0,4.9,49,,0
+778,Sahel,Rural,9,3,0.5,Homme,27,Secondaire,Tole,Banco (terre),Puits non protege,0,0.0,2,3,5,0,0,0,1,6.1,61,19929.0,1
+779,Centre-Nord,Rural,5,2,0.67,Femme,47,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.78,2,5,5,1,1,1,0,8.6,45,24531.0,0
+780,Centre-Nord,Rural,8,5,1.67,Homme,35,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.01,2,2,9,1,1,1,1,6.2,41,57850.0,1
+781,Sahel,Rural,4,2,1.0,Homme,26,Superieur,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,0.88,3,4,4,1,1,1,0,5.3,64,18448.0,0
+782,Boucle du Mouhoun,Urbain,19,9,0.9,Femme,58,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.62,3,5,5,0,0,0,1,2.6,69,26167.0,1
+783,Est,Rural,5,3,1.5,Femme,37,Aucun,Tole,Brique de ciment,Puits non protege,1,1.92,3,5,6,1,0,1,1,18.3,32,67462.0,0
+784,Nord,Urbain,6,2,0.5,Homme,60,Secondaire,Tole,Dur,Puits protege/Forage,1,0.17,1,1,1,1,0,0,1,1.8,70,16448.0,0
+785,Boucle du Mouhoun,Rural,11,5,0.83,Homme,45,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.13,0,5,5,0,0,1,0,6.0,36,36215.0,1
+786,Est,Rural,7,3,0.75,Homme,49,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.86,3,3,15,1,0,0,0,13.7,15,19537.0,1
+787,Centre-Nord,Rural,11,5,0.83,Homme,42,Primaire,Tole,Banco (terre),Puits protege/Forage,1,2.19,0,7,6,0,0,1,1,11.3,52,32234.0,0
+788,Est,Rural,2,1,1.0,Femme,18,Secondaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.43,1,4,8,0,0,0,0,9.1,60,76925.0,0
+789,Centre-Nord,Urbain,7,3,0.75,Homme,30,Primaire,Tole,Banco (terre),Puits non protege,1,2.14,0,5,4,1,0,1,0,9.2,28,38415.0,0
+790,Nord,Rural,15,7,0.88,Homme,43,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,0.88,0,3,3,1,0,1,0,9.7,20,28806.0,1
+791,Sahel,Rural,10,4,0.67,Homme,50,Primaire,Chaume/Paille,Banco (terre),Puits non protege,0,0.0,0,0,9,0,1,1,1,4.1,44,17536.0,1
+792,Est,Urbain,7,4,1.33,Homme,22,Aucun,Tole,Banco (terre),Robinet/Eau courante,0,0.0,2,1,5,1,1,1,0,3.3,42,24861.0,0
+793,Est,Rural,4,2,1.0,Femme,44,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,0,0.0,0,3,8,1,1,1,0,24.9,74,20860.0,0
+794,Sahel,Rural,7,3,0.75,Homme,30,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,4.3,3,4,8,0,0,1,1,9.7,52,14006.0,1
+795,Sahel,Rural,7,4,1.33,Homme,48,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,0,0.0,3,3,3,1,0,1,0,15.4,64,10322.0,0
+796,Est,Rural,5,2,0.67,Femme,45,Superieur,Tole,Banco (terre),Robinet/Eau courante,1,1.3,0,2,3,1,1,1,0,15.9,55,18514.0,1
+797,Sahel,Urbain,9,5,1.25,Homme,55,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.56,1,4,1,0,1,1,0,8.1,77,26524.0,0
+798,Sahel,Rural,9,4,0.8,Homme,59,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.79,2,4,13,1,0,1,0,9.2,38,44520.0,1
+799,Centre-Nord,Rural,10,4,0.67,Homme,51,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,4.22,0,7,6,0,0,1,0,6.7,51,19299.0,0
+800,Centre-Nord,Rural,11,5,0.83,Homme,56,Primaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,3,7,5,0,0,0,0,5.8,27,29326.0,0
+801,Centre-Nord,Rural,6,4,2.0,Homme,40,Primaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,1.95,0,0,7,1,0,1,0,15.7,65,12512.0,1
+802,Est,Rural,7,3,0.75,Homme,82,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,2.89,2,2,5,0,0,1,1,11.0,70,18766.0,1
+803,Boucle du Mouhoun,Urbain,9,4,0.8,Homme,29,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,0,0.0,4,9,9,1,1,0,0,7.0,66,8944.0,0
+804,Nord,Rural,6,3,1.0,Homme,38,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,3.58,2,5,7,1,0,1,0,12.1,50,73523.0,0
+805,Sahel,Rural,11,5,0.83,Homme,57,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.5,1,5,5,1,0,0,1,8.1,28,29410.0,1
+806,Sahel,Rural,9,5,1.25,Homme,55,Aucun,Tole,Brique de ciment,Puits non protege,0,0.0,0,9,8,1,1,1,0,14.3,51,28995.0,1
+807,Nord,Rural,12,8,2.0,Homme,51,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,5.12,0,1,6,1,1,1,1,10.0,41,34230.0,1
+808,Sahel,Rural,5,3,1.5,Homme,54,Secondaire,Tole,Banco (terre),Robinet/Eau courante,0,0.0,3,3,9,1,0,1,1,8.4,67,,0
+809,Nord,Urbain,8,4,1.0,Homme,18,Superieur,Chaume/Paille,Brique de ciment,Puits protege/Forage,0,0.0,1,3,4,1,1,0,0,7.1,45,22118.0,0
+810,Boucle du Mouhoun,Urbain,9,4,0.8,Homme,66,Primaire,Tole,Banco (terre),Robinet/Eau courante,0,0.0,0,1,6,1,0,1,0,10.5,45,17303.0,0
+811,Sahel,Rural,8,5,1.67,Homme,42,Secondaire,Tole,Dur,Puits non protege,1,1.88,3,3,2,0,0,1,1,8.3,87,66177.0,0
+812,Sahel,Rural,10,5,1.0,Homme,61,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,1.46,1,2,3,0,0,1,1,,65,15461.0,1
+813,Boucle du Mouhoun,Urbain,10,4,0.67,Homme,19,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,0.78,2,4,6,0,0,1,1,1.7,69,48250.0,0
+814,Nord,Rural,4,3,3.0,Homme,48,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.9,0,3,3,0,0,1,0,11.7,44,26024.0,1
+815,Sahel,Rural,8,5,1.67,Homme,38,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.56,2,3,4,1,1,0,1,7.0,34,32696.0,1
+816,Boucle du Mouhoun,Rural,10,5,1.0,Homme,52,Aucun,Tole,Banco (terre),Puits non protege,1,2.14,0,3,4,1,1,1,0,10.1,69,14094.0,1
+817,Boucle du Mouhoun,Urbain,8,4,1.0,Homme,49,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.73,0,6,7,1,0,0,1,8.9,76,86432.0,0
+818,Nord,Urbain,9,5,1.25,Femme,50,Aucun,Tole,Banco (terre),Puits non protege,1,2.06,0,5,16,1,0,0,1,41.1,31,22652.0,1
+819,Nord,Rural,9,5,1.25,Homme,31,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,0.81,0,5,5,1,0,0,0,5.2,44,19622.0,0
+820,Sahel,Urbain,5,2,0.67,Homme,44,Primaire,Dur (beton/tuile),Dur,Robinet/Eau courante,1,1.24,0,6,8,1,0,1,0,2.3,37,34433.0,0
+821,Sahel,Rural,7,3,0.75,Homme,43,Aucun,Tole,Brique de ciment,Puits non protege,0,0.0,0,4,5,1,1,1,1,12.0,60,20126.0,0
+822,Nord,Rural,7,3,0.75,Homme,51,Superieur,Chaume/Paille,Dur,Puits protege/Forage,1,1.43,0,5,7,1,0,1,1,14.7,69,32565.0,0
+823,Est,Rural,8,4,1.0,Homme,58,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,1.55,0,7,5,1,1,1,0,7.9,46,15253.0,0
+824,Nord,Rural,9,3,0.5,Homme,47,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,1.15,1,3,2,1,1,0,1,6.2,46,28725.0,0
+825,Centre-Nord,Rural,5,3,1.5,Homme,28,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,1,0.66,0,4,7,0,1,0,0,12.2,21,20508.0,1
+826,Sahel,Rural,8,3,0.6,Femme,46,Superieur,Tole,Brique de ciment,Puits protege/Forage,0,0.0,0,0,8,1,0,1,0,7.4,37,18911.0,0
+827,Nord,Rural,6,3,1.0,Homme,79,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.6,0,5,7,1,0,1,0,16.9,76,17613.0,0
+828,Sahel,Urbain,9,5,1.25,Homme,66,Secondaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.93,1,4,9,1,0,1,0,7.5,60,40080.0,0
+829,Centre-Nord,Rural,9,4,0.8,Homme,18,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.15,0,4,7,1,1,0,0,12.0,67,,0
+830,Sahel,Rural,6,3,1.0,Homme,46,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,6.72,0,6,8,0,1,0,0,15.9,46,24767.0,0
+831,Nord,Urbain,10,6,1.5,Homme,57,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,1.7,2,4,6,1,1,1,0,17.8,48,32604.0,0
+832,Nord,Rural,9,3,0.5,Homme,43,Aucun,Tole,Dur,Puits non protege,0,0.0,0,3,5,1,0,1,0,6.6,52,44939.0,0
+833,Est,Urbain,10,6,1.5,Homme,39,Aucun,Tole,Brique de ciment,Puits non protege,1,1.26,3,4,6,1,0,1,1,4.6,57,17757.0,0
+834,Nord,Urbain,13,5,0.62,Homme,42,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.33,0,4,9,1,1,0,0,12.9,74,29711.0,1
+835,Centre-Nord,Urbain,10,5,1.0,Homme,52,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.39,0,1,7,1,0,0,0,5.8,41,17866.0,1
+836,Nord,Rural,6,3,1.0,Homme,30,Aucun,Tole,Banco (terre),Puits protege/Forage,1,3.08,0,2,7,1,1,0,1,7.7,50,24494.0,0
+837,Centre-Nord,Rural,9,4,0.8,Homme,60,Aucun,Tole,Banco (terre),Puits non protege,1,1.06,0,0,4,0,1,1,1,9.4,39,43447.0,0
+838,Boucle du Mouhoun,Rural,6,3,1.0,Homme,44,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,0,0.0,0,5,4,1,0,1,1,20.9,21,9361.0,1
+839,Est,Rural,7,3,0.75,Homme,33,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.93,4,5,12,0,1,1,0,9.6,67,17760.0,0
+840,Nord,Rural,12,6,1.0,Homme,60,Primaire,Tole,Banco (terre),Puits non protege,1,3.22,0,3,4,1,0,1,0,12.7,80,24243.0,0
+841,Sahel,Rural,9,4,0.8,Femme,25,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.42,3,3,3,1,1,0,0,8.5,64,31929.0,0
+842,Centre-Nord,Rural,7,4,1.33,Homme,38,Secondaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,4,4,1,1,0,1,5.5,56,46578.0,0
+843,Nord,Rural,10,5,1.0,Femme,38,Aucun,Tole,Banco (terre),Puits non protege,1,0.5,2,5,8,1,0,0,0,14.5,82,12534.0,1
+844,Est,Rural,9,4,0.8,Homme,73,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,3.25,1,2,4,0,1,0,0,8.5,59,50867.0,0
+845,Sahel,Urbain,4,1,0.33,Homme,36,Primaire,Dur (beton/tuile),Brique de ciment,Robinet/Eau courante,0,0.0,2,3,9,1,0,1,0,11.3,65,34008.0,0
+846,Boucle du Mouhoun,Urbain,11,5,0.83,Homme,18,Secondaire,Tole,Brique de ciment,Puits protege/Forage,0,0.0,5,3,6,1,0,0,0,8.4,54,24142.0,0
+847,Est,Rural,7,4,1.33,Homme,37,Superieur,Dur (beton/tuile),Banco (terre),Puits non protege,1,1.12,4,10,7,0,0,0,0,11.1,57,13890.0,0
+848,Nord,Urbain,10,4,0.67,Homme,51,Secondaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,2,6,3,1,0,1,0,13.6,50,20794.0,0
+849,Sahel,Rural,7,4,1.33,Homme,55,Primaire,Chaume/Paille,Dur,Robinet/Eau courante,1,2.31,4,3,8,1,0,1,0,8.5,65,42674.0,0
+850,Boucle du Mouhoun,Urbain,3,1,0.5,Femme,75,Primaire,Tole,Dur,Puits protege/Forage,1,5.46,1,3,6,1,1,0,0,10.3,35,27225.0,0
+851,Sahel,Urbain,14,6,0.75,Homme,63,Primaire,Tole,Banco (terre),Puits non protege,1,1.99,0,3,2,1,1,0,0,5.6,59,24801.0,1
+852,Sahel,Rural,9,5,1.25,Homme,47,Aucun,Dur (beton/tuile),Brique de ciment,Puits non protege,1,0.5,5,8,5,1,1,0,0,8.2,38,17376.0,0
+853,Centre-Nord,Urbain,12,5,0.71,Homme,33,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.45,0,3,10,0,0,0,1,7.9,60,37443.0,1
+854,Boucle du Mouhoun,Urbain,7,3,0.75,Femme,66,Superieur,Chaume/Paille,Banco (terre),Puits protege/Forage,0,0.0,0,3,6,1,1,1,0,3.8,90,25150.0,0
+855,Sahel,Urbain,8,4,1.0,Homme,40,Superieur,Tole,Dur,Robinet/Eau courante,1,3.62,0,10,3,1,1,1,0,4.6,63,24186.0,0
+856,Est,Urbain,9,5,1.25,Homme,36,Aucun,Chaume/Paille,Dur,Robinet/Eau courante,0,0.0,0,2,9,1,1,0,1,6.4,71,25775.0,0
+857,Centre-Nord,Rural,6,2,0.5,Homme,40,Aucun,Tole,Dur,Puits non protege,0,0.0,0,3,8,1,1,1,0,17.1,66,20123.0,0
+858,Centre-Nord,Rural,7,3,0.75,Homme,29,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,1,4,0,1,0,0,18.0,15,18641.0,1
+859,Est,Urbain,9,4,0.8,Homme,39,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,1.85,0,6,6,0,1,1,0,2.3,50,,1
+860,Nord,Rural,6,3,1.0,Homme,42,Aucun,Chaume/Paille,Brique de ciment,Puits non protege,0,0.0,5,3,7,1,1,0,1,8.1,59,20358.0,1
+861,Centre-Nord,Rural,4,2,1.0,Femme,54,Primaire,Tole,Brique de ciment,Puits non protege,0,0.0,0,2,2,1,0,0,0,13.1,19,11967.0,1
+862,Centre-Nord,Rural,7,4,1.33,Homme,40,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,4.38,4,4,2,1,0,1,0,7.6,47,33475.0,0
+863,Centre-Nord,Rural,6,3,1.0,Homme,29,Aucun,Tole,Banco (terre),Puits non protege,0,0.0,0,2,4,0,1,0,0,8.0,51,19922.0,1
+864,Nord,Rural,9,6,2.0,Homme,24,Aucun,Tole,Banco (terre),Puits protege/Forage,1,2.95,0,3,3,1,1,0,1,9.4,32,22549.0,1
+865,Sahel,Urbain,6,3,1.0,Homme,48,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,2.58,0,5,8,1,1,1,0,8.8,36,26457.0,0
+866,Boucle du Mouhoun,Rural,10,4,0.67,Homme,46,Aucun,Tole,Brique de ciment,Puits non protege,1,1.41,0,4,5,0,1,1,1,10.9,73,,0
+867,Centre-Nord,Urbain,10,4,0.67,Homme,38,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,0,0.0,3,6,11,1,1,1,0,14.1,3,15855.0,1
+868,Centre-Nord,Urbain,8,3,0.6,Homme,39,Primaire,Tole,Banco (terre),Puits non protege,0,0.0,0,7,8,1,1,0,0,6.3,56,29727.0,0
+869,Sahel,Rural,5,2,0.67,Homme,50,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.39,0,5,5,1,0,0,1,11.0,71,62947.0,0
+870,Sahel,Rural,6,4,2.0,Homme,63,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.06,0,2,3,1,1,1,0,9.6,52,40520.0,0
+871,Centre-Nord,Rural,7,3,0.75,Femme,35,Primaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,0,0.0,0,3,4,1,0,0,0,11.6,75,47856.0,0
+872,Sahel,Urbain,2,1,1.0,Homme,46,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.12,2,5,4,1,0,0,1,4.2,45,14998.0,1
+873,Boucle du Mouhoun,Urbain,6,3,1.0,Homme,57,Primaire,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,1.94,0,4,8,1,1,1,1,7.9,38,24682.0,0
+874,Est,Rural,3,2,2.0,Homme,35,Aucun,Dur (beton/tuile),Banco (terre),Puits protege/Forage,0,0.0,0,2,5,1,1,1,0,7.6,52,24610.0,0
+875,Centre-Nord,Rural,10,4,0.67,Homme,45,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,1,0.62,1,4,4,0,1,1,1,16.4,46,51164.0,1
+876,Boucle du Mouhoun,Rural,6,4,2.0,Homme,45,Superieur,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.79,6,5,8,1,1,0,0,9.9,43,40643.0,0
+877,Est,Rural,7,4,1.33,Homme,28,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,1.8,4,7,6,1,0,1,0,19.8,49,24988.0,0
+878,Est,Urbain,11,5,0.83,Homme,47,Secondaire,Tole,Brique de ciment,Puits non protege,1,0.35,0,5,5,0,1,1,1,12.2,39,9607.0,0
+879,Nord,Urbain,6,3,1.0,Homme,45,Aucun,Tole,Brique de ciment,Puits non protege,1,2.49,0,2,4,1,1,1,1,7.2,39,15971.0,0
+880,Nord,Rural,5,2,0.67,Homme,52,Primaire,Tole,Brique de ciment,Robinet/Eau courante,1,1.29,0,4,6,0,1,1,0,13.4,34,35769.0,1
+881,Est,Urbain,8,3,0.6,Homme,30,Aucun,Dur (beton/tuile),Brique de ciment,Robinet/Eau courante,1,1.51,2,7,9,1,0,1,0,8.0,59,23287.0,0
+882,Nord,Rural,11,5,0.83,Femme,45,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,1.61,2,5,15,1,1,1,0,6.3,36,25601.0,1
+883,Boucle du Mouhoun,Urbain,11,4,0.57,Homme,63,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.51,4,10,6,1,0,1,1,7.0,32,35459.0,0
+884,Est,Rural,8,4,1.0,Homme,72,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.62,2,2,4,1,0,1,0,10.7,35,44771.0,1
+885,Sahel,Rural,6,4,2.0,Homme,62,Primaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,0,0.0,0,8,6,1,1,1,0,,55,18949.0,0
+886,Est,Urbain,20,9,0.82,Homme,30,Secondaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,0.86,4,7,7,0,1,1,0,8.4,63,35110.0,0
+887,Est,Rural,6,3,1.0,Homme,51,Primaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,0.78,0,0,5,1,0,0,1,11.1,64,55556.0,1
+888,Sahel,Urbain,6,3,1.0,Homme,39,Secondaire,Tole,Brique de ciment,Puits non protege,1,5.24,1,2,7,1,0,1,0,7.4,55,51154.0,0
+889,Sahel,Urbain,10,4,0.67,Homme,49,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,0.71,0,5,9,1,1,0,1,15.3,61,21187.0,0
+890,Nord,Rural,5,3,1.5,Homme,35,Secondaire,Chaume/Paille,Dur,Puits non protege,1,1.09,3,6,5,1,1,0,0,10.4,51,30721.0,0
+891,Est,Rural,9,4,0.8,Homme,23,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,3.87,2,4,7,1,0,1,1,14.4,59,37716.0,0
+892,Boucle du Mouhoun,Urbain,8,5,1.67,Homme,41,Primaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,0.33,0,4,5,1,1,1,0,5.8,59,27148.0,0
+893,Sahel,Rural,6,3,1.0,Homme,54,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,0,0.0,0,5,7,0,1,0,0,19.5,40,24049.0,1
+894,Sahel,Rural,7,4,1.33,Femme,49,Superieur,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,2.25,0,4,4,0,0,0,1,13.1,35,12349.0,0
+895,Centre-Nord,Rural,4,2,1.0,Homme,50,Aucun,Dur (beton/tuile),Dur,Puits protege/Forage,0,0.0,2,1,6,1,1,1,0,11.2,74,18228.0,0
+896,Boucle du Mouhoun,Urbain,7,3,0.75,Femme,48,Aucun,Tole,Dur,Puits protege/Forage,1,0.28,3,4,5,0,0,1,0,3.9,54,19675.0,0
+897,Sahel,Rural,7,4,1.33,Femme,50,Aucun,Tole,Brique de ciment,Puits non protege,1,0.56,0,7,9,1,1,1,1,19.7,69,15251.0,1
+898,Sahel,Rural,8,4,1.0,Homme,52,Aucun,Tole,Brique de ciment,Robinet/Eau courante,1,0.23,4,1,6,1,0,1,0,15.7,34,28262.0,0
+899,Sahel,Urbain,9,4,0.8,Homme,41,Secondaire,Tole,Dur,Puits protege/Forage,0,0.0,0,4,7,1,1,1,1,3.6,46,39734.0,0
+900,Nord,Rural,4,2,1.0,Femme,46,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.01,3,4,6,1,1,0,0,5.8,30,22278.0,0
+901,Est,Urbain,8,4,1.0,Homme,68,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.85,0,5,6,1,0,0,1,5.1,62,9980.0,1
+902,Sahel,Rural,6,2,0.5,Homme,47,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.16,0,7,4,1,1,1,1,7.0,42,25508.0,0
+903,Sahel,Urbain,4,2,1.0,Homme,46,Aucun,Tole,Dur,Puits protege/Forage,0,0.0,2,2,3,0,0,1,0,5.5,43,30433.0,0
+904,Est,Urbain,7,4,1.33,Homme,46,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,3.45,0,3,4,1,0,0,0,10.0,83,29521.0,0
+905,Boucle du Mouhoun,Rural,9,5,1.25,Femme,42,Primaire,Tole,Banco (terre),Puits non protege,1,1.79,4,2,7,0,1,1,0,15.7,63,19448.0,1
+906,Nord,Urbain,7,4,1.33,Homme,39,Primaire,Chaume/Paille,Dur,Robinet/Eau courante,1,1.61,0,8,3,1,1,1,0,1.6,62,15643.0,0
+907,Est,Rural,8,4,1.0,Femme,48,Superieur,Tole,Brique de ciment,Robinet/Eau courante,1,3.08,0,5,6,0,1,1,0,6.2,33,40090.0,0
+908,Sahel,Rural,3,1,0.5,Homme,38,Primaire,Tole,Dur,Puits protege/Forage,1,0.42,0,6,5,1,1,1,1,6.9,22,31517.0,0
+909,Sahel,Rural,12,5,0.71,Homme,43,Superieur,Dur (beton/tuile),Banco (terre),Robinet/Eau courante,1,1.77,4,1,6,0,0,0,0,10.9,68,19800.0,0
+910,Est,Urbain,6,2,0.5,Homme,35,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.97,1,4,4,1,1,1,1,12.2,16,13691.0,1
+911,Centre-Nord,Rural,9,5,1.25,Femme,46,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,0,0.0,0,6,5,0,1,1,1,9.9,44,29738.0,1
+912,Centre-Nord,Rural,3,1,0.5,Femme,53,Primaire,Tole,Banco (terre),Robinet/Eau courante,0,0.0,0,4,4,1,1,0,0,5.6,39,17964.0,0
+913,Boucle du Mouhoun,Rural,7,4,1.33,Femme,42,Primaire,Dur (beton/tuile),Brique de ciment,Puits protege/Forage,0,0.0,0,4,11,1,0,1,0,11.5,37,31959.0,0
+914,Boucle du Mouhoun,Rural,15,8,1.14,Homme,19,Aucun,Dur (beton/tuile),Brique de ciment,Puits protege/Forage,1,1.21,2,2,4,1,0,1,1,8.4,45,28884.0,0
+915,Boucle du Mouhoun,Rural,7,4,1.33,Homme,53,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.67,0,4,1,1,1,1,0,8.5,35,68501.0,1
+916,Boucle du Mouhoun,Rural,5,2,0.67,Homme,47,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,2.76,0,3,1,1,0,1,1,10.8,33,25976.0,0
+917,Sahel,Rural,5,2,0.67,Femme,32,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,1,2.36,0,3,6,0,1,1,0,12.7,56,66194.0,0
+918,Sahel,Rural,9,6,2.0,Homme,55,Secondaire,Tole,Brique de ciment,Robinet/Eau courante,1,1.27,3,3,5,1,0,0,0,15.3,69,27913.0,0
+919,Est,Rural,10,5,1.0,Homme,27,Aucun,Tole,Brique de ciment,Puits non protege,1,1.26,2,3,8,1,1,1,0,16.4,24,19928.0,1
+920,Nord,Rural,8,4,1.0,Homme,59,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.04,1,3,5,1,0,1,0,14.4,55,16731.0,1
+921,Sahel,Urbain,6,3,1.0,Homme,44,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,3.62,0,3,10,0,1,1,0,9.6,61,18130.0,1
+922,Centre-Nord,Rural,5,3,1.5,Homme,18,Primaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,0,0.0,0,5,8,1,1,0,0,6.1,59,32633.0,0
+923,Nord,Rural,3,1,0.5,Homme,47,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.07,0,3,5,1,1,1,0,13.2,48,28513.0,0
+924,Nord,Rural,8,5,1.67,Homme,40,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,2.58,0,3,13,1,1,1,0,9.5,42,11762.0,0
+925,Sahel,Rural,12,5,0.71,Homme,38,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.11,0,3,4,1,1,1,0,16.3,64,42577.0,1
+926,Sahel,Rural,10,6,1.5,Homme,35,Primaire,Tole,Banco (terre),Puits non protege,1,1.2,0,2,6,0,0,1,0,8.2,57,52292.0,1
+927,Sahel,Urbain,13,5,0.62,Homme,43,Primaire,Tole,Banco (terre),Puits non protege,1,2.83,2,3,9,1,1,1,0,5.2,22,11708.0,0
+928,Centre-Nord,Rural,5,2,0.67,Homme,39,Primaire,Tole,Brique de ciment,Puits non protege,1,4.18,0,5,8,1,0,0,0,7.8,48,42422.0,0
+929,Nord,Rural,8,3,0.6,Homme,21,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.88,0,1,8,1,0,1,1,8.3,53,57377.0,0
+930,Centre-Nord,Rural,6,4,2.0,Homme,62,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,2.17,0,4,10,0,1,1,0,17.9,35,11989.0,1
+931,Est,Rural,8,5,1.67,Homme,42,Aucun,Tole,Banco (terre),Puits protege/Forage,1,0.88,1,2,4,1,0,1,0,8.0,48,21801.0,1
+932,Est,Rural,7,3,0.75,Homme,35,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,5.54,5,4,5,1,1,0,1,10.5,60,18356.0,0
+933,Est,Rural,6,3,1.0,Femme,30,Secondaire,Tole,Banco (terre),Puits non protege,1,1.69,1,3,8,1,1,1,1,8.2,39,41700.0,0
+934,Centre-Nord,Rural,4,2,1.0,Homme,55,Primaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,2.34,0,4,6,1,0,0,0,10.4,56,22323.0,0
+935,Centre-Nord,Rural,8,3,0.6,Homme,28,Primaire,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,0.15,0,1,12,0,0,0,1,11.5,36,21926.0,0
+936,Sahel,Urbain,12,7,1.4,Homme,47,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,5,6,1,0,0,1,9.1,32,32519.0,1
+937,Boucle du Mouhoun,Urbain,6,2,0.5,Homme,37,Aucun,Tole,Banco (terre),Puits non protege,1,2.59,0,7,6,1,1,0,1,6.0,62,54276.0,0
+938,Sahel,Rural,5,3,1.5,Femme,38,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,0.42,0,8,5,1,0,1,1,18.7,71,26167.0,1
+939,Boucle du Mouhoun,Rural,9,6,2.0,Femme,31,Aucun,Tole,Brique de ciment,Robinet/Eau courante,0,0.0,0,9,8,1,1,0,1,5.8,33,21767.0,0
+940,Sahel,Urbain,6,2,0.5,Homme,37,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,4.31,0,11,10,1,0,1,1,3.8,67,23672.0,1
+941,Sahel,Rural,10,5,1.0,Femme,45,Superieur,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.69,0,3,6,1,0,1,0,,52,36177.0,0
+942,Centre-Nord,Urbain,6,4,2.0,Homme,48,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,2.22,0,6,4,1,1,1,1,3.1,17,14778.0,1
+943,Sahel,Urbain,7,4,1.33,Homme,35,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.08,0,5,6,1,0,1,0,8.6,29,26705.0,1
+944,Est,Urbain,8,5,1.67,Homme,44,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.53,1,3,3,1,1,0,1,3.7,62,17642.0,1
+945,Est,Urbain,11,4,0.57,Homme,57,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.44,3,1,6,1,1,1,1,0.4,26,15657.0,1
+946,Sahel,Rural,9,3,0.5,Homme,23,Aucun,Dur (beton/tuile),Brique de ciment,Robinet/Eau courante,1,2.41,1,6,4,1,0,1,0,11.0,42,11214.0,0
+947,Centre-Nord,Rural,7,4,1.33,Homme,45,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,0.67,2,5,4,1,1,1,0,18.9,51,21338.0,0
+948,Centre-Nord,Rural,8,4,1.0,Homme,33,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,2.67,3,4,3,1,1,1,1,4.6,59,43714.0,0
+949,Centre-Nord,Rural,8,4,1.0,Homme,31,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.76,1,4,5,1,0,1,1,12.3,55,11020.0,0
+950,Est,Rural,6,3,1.0,Homme,48,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.78,1,6,10,1,1,0,1,,77,34345.0,0
+951,Nord,Urbain,5,2,0.67,Homme,38,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,0.31,0,4,7,0,0,1,1,4.1,39,20091.0,0
+952,Sahel,Rural,9,4,0.8,Homme,29,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,0.41,0,4,6,0,1,1,0,11.6,54,16672.0,1
+953,Sahel,Rural,8,4,1.0,Homme,62,Aucun,Tole,Banco (terre),Puits non protege,1,1.4,0,5,4,1,0,1,1,4.1,59,31406.0,0
+954,Sahel,Urbain,6,4,2.0,Homme,57,Aucun,Tole,Brique de ciment,Puits non protege,1,3.29,2,3,6,1,0,1,1,6.6,63,48521.0,1
+955,Boucle du Mouhoun,Rural,4,2,1.0,Homme,20,Aucun,Dur (beton/tuile),Dur,Puits protege/Forage,1,0.79,2,7,6,1,1,0,0,13.0,69,52791.0,0
+956,Boucle du Mouhoun,Rural,9,3,0.5,Homme,26,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,3.59,2,2,4,1,1,1,0,,45,30567.0,0
+957,Centre-Nord,Urbain,3,2,2.0,Homme,53,Primaire,Tole,Banco (terre),Puits non protege,1,0.27,0,4,8,0,0,0,1,4.5,62,26066.0,0
+958,Nord,Rural,7,4,1.33,Homme,41,Aucun,Chaume/Paille,Dur,Robinet/Eau courante,1,1.58,1,7,3,0,1,0,1,11.7,37,32087.0,0
+959,Est,Rural,9,5,1.25,Femme,65,Secondaire,Tole,Brique de ciment,Robinet/Eau courante,0,0.0,0,8,6,1,0,1,1,10.0,51,82013.0,0
+960,Nord,Rural,12,7,1.4,Homme,53,Aucun,Tole,Banco (terre),Robinet/Eau courante,0,0.0,2,6,7,1,1,0,0,15.8,60,23583.0,0
+961,Nord,Urbain,8,4,1.0,Homme,49,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.74,3,3,6,1,1,1,1,6.4,68,44834.0,0
+962,Est,Rural,10,6,1.5,Homme,32,Primaire,Dur (beton/tuile),Banco (terre),Robinet/Eau courante,1,1.07,1,3,6,1,1,0,0,11.9,61,20608.0,0
+963,Sahel,Rural,14,9,1.8,Homme,51,Aucun,Tole,Banco (terre),Robinet/Eau courante,0,0.0,5,8,6,0,1,0,0,8.6,53,18513.0,0
+964,Sahel,Rural,8,3,0.6,Homme,28,Primaire,Tole,Brique de ciment,Puits non protege,1,2.89,3,5,4,1,1,0,1,8.6,51,59635.0,0
+965,Boucle du Mouhoun,Rural,9,4,0.8,Homme,62,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,1.65,0,5,4,1,1,1,1,13.8,61,26935.0,0
+966,Est,Urbain,6,3,1.0,Homme,50,Secondaire,Tole,Banco (terre),Puits protege/Forage,0,0.0,6,2,3,1,0,0,1,10.5,87,29764.0,0
+967,Boucle du Mouhoun,Rural,10,5,1.0,Femme,34,Secondaire,Tole,Brique de ciment,Robinet/Eau courante,1,1.16,0,6,11,1,1,1,0,6.0,66,34411.0,0
+968,Sahel,Urbain,10,5,1.0,Homme,55,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.24,2,2,7,1,1,1,1,5.3,58,18003.0,1
+969,Nord,Rural,9,5,1.25,Homme,74,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.24,0,2,6,1,1,0,1,12.0,30,22088.0,1
+970,Sahel,Rural,6,4,2.0,Femme,42,Secondaire,Chaume/Paille,Banco (terre),Puits non protege,1,2.6,0,2,5,1,1,1,0,4.7,38,20152.0,1
+971,Sahel,Urbain,6,3,1.0,Homme,52,Aucun,Dur (beton/tuile),Brique de ciment,Puits non protege,1,0.94,0,5,6,1,1,0,0,5.2,47,31241.0,0
+972,Sahel,Rural,5,3,1.5,Femme,39,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,1,1.84,5,3,7,1,0,1,1,23.3,67,31729.0,0
+973,Sahel,Rural,9,5,1.25,Homme,46,Primaire,Tole,Banco (terre),Puits protege/Forage,1,4.36,0,7,6,1,1,1,0,7.2,37,20533.0,0
+974,Boucle du Mouhoun,Urbain,13,7,1.17,Homme,25,Secondaire,Tole,Brique de ciment,Robinet/Eau courante,1,3.31,3,8,5,1,0,1,1,3.1,62,67003.0,0
+975,Est,Rural,3,1,0.5,Femme,45,Secondaire,Tole,Banco (terre),Puits non protege,1,0.87,0,2,6,1,1,1,0,9.8,54,26574.0,1
+976,Nord,Rural,10,5,1.0,Homme,46,Aucun,Tole,Banco (terre),Puits non protege,1,1.68,0,3,6,0,0,1,0,10.1,58,28177.0,1
+977,Est,Urbain,7,4,1.33,Femme,68,Primaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,0,0.0,3,7,7,1,1,0,1,4.8,49,49245.0,0
+978,Est,Rural,8,3,0.6,Homme,22,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,2.32,2,1,4,1,1,1,0,14.7,42,18147.0,1
+979,Nord,Rural,5,3,1.5,Femme,41,Primaire,Tole,Banco (terre),Puits non protege,0,0.0,2,6,5,0,1,0,0,5.3,36,21282.0,0
+980,Sahel,Rural,12,6,1.0,Homme,62,Primaire,Tole,Brique de ciment,Puits non protege,1,1.51,2,2,8,1,1,1,0,7.0,62,30591.0,1
+981,Boucle du Mouhoun,Rural,10,4,0.67,Homme,42,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.36,6,2,5,1,1,1,1,9.3,51,13849.0,0
+982,Centre-Nord,Rural,5,3,1.5,Homme,43,Secondaire,Tole,Dur,Puits protege/Forage,1,3.19,0,3,7,1,1,1,0,16.2,35,24177.0,0
+983,Centre-Nord,Urbain,6,3,1.0,Femme,34,Aucun,Chaume/Paille,Dur,Robinet/Eau courante,0,0.0,1,3,5,0,1,1,1,3.9,56,67704.0,0
+984,Est,Rural,6,3,1.0,Homme,33,Primaire,Dur (beton/tuile),Banco (terre),Puits non protege,1,1.35,0,5,4,1,0,0,0,6.7,107,61270.0,0
+985,Sahel,Urbain,6,3,1.0,Homme,21,Superieur,Tole,Banco (terre),Puits non protege,0,0.0,2,6,6,1,0,0,0,0.9,49,40286.0,1
+986,Boucle du Mouhoun,Rural,6,2,0.5,Femme,37,Primaire,Tole,Banco (terre),Puits protege/Forage,1,3.55,0,4,8,1,0,1,0,6.5,78,45809.0,0
+987,Est,Rural,4,2,1.0,Homme,32,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,0.09,2,4,6,1,0,1,0,5.0,11,,0
+988,Sahel,Rural,9,4,0.8,Homme,47,Aucun,Dur (beton/tuile),Brique de ciment,Puits protege/Forage,1,0.92,5,5,2,1,0,0,0,7.7,48,22155.0,0
+989,Est,Urbain,10,4,0.67,Homme,35,Aucun,Tole,Banco (terre),Robinet/Eau courante,0,0.0,3,4,7,0,1,1,0,8.5,67,56365.0,0
+990,Centre-Nord,Rural,12,7,1.4,Homme,39,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,5,6,1,0,1,0,11.5,52,17554.0,0
+991,Nord,Rural,3,1,0.5,Homme,39,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,0.77,1,7,7,0,1,0,0,12.8,42,41598.0,0
+992,Centre-Nord,Urbain,9,6,2.0,Homme,44,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.85,0,4,7,1,1,0,0,2.1,52,21394.0,1
+993,Centre-Nord,Rural,10,5,1.0,Homme,38,Primaire,Chaume/Paille,Banco (terre),Puits non protege,1,0.77,0,3,6,0,1,1,0,5.6,68,21982.0,1
+994,Sahel,Rural,8,4,1.0,Homme,31,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,0,0.0,0,1,4,1,1,0,0,11.3,86,34283.0,1
+995,Boucle du Mouhoun,Urbain,9,6,2.0,Homme,46,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,3,6,2,1,1,1,0,10.1,69,67191.0,1
+996,Est,Rural,8,4,1.0,Homme,59,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,3.09,3,1,11,1,0,0,1,9.8,44,51169.0,0
+997,Nord,Rural,13,7,1.17,Homme,47,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.26,0,3,8,0,1,1,1,11.7,48,31333.0,1
+998,Sahel,Rural,8,4,1.0,Homme,37,Aucun,Dur (beton/tuile),Brique de ciment,Puits non protege,1,3.06,0,5,9,1,0,0,1,9.5,48,27675.0,0
+999,Boucle du Mouhoun,Rural,4,2,1.0,Homme,43,Primaire,Chaume/Paille,Brique de ciment,Puits non protege,0,0.0,0,2,5,1,0,1,0,8.1,38,38241.0,0
+1000,Est,Rural,6,2,0.5,Homme,18,Aucun,Tole,Banco (terre),Puits protege/Forage,0,0.0,0,4,7,1,1,0,1,8.6,50,49728.0,0
+1001,Sahel,Urbain,7,3,0.75,Homme,43,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,1.01,3,3,4,0,1,0,0,10.0,48,12182.0,0
+1002,Est,Rural,5,3,1.5,Homme,40,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.29,0,1,10,1,1,1,0,9.4,33,25409.0,0
+1003,Sahel,Urbain,11,4,0.57,Homme,33,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,1.55,0,4,4,1,0,1,0,9.9,65,16754.0,1
+1004,Sahel,Urbain,5,3,1.5,Femme,35,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.41,0,3,4,1,1,1,1,6.4,59,24382.0,1
+1005,Nord,Rural,11,6,1.2,Homme,40,Secondaire,Tole,Banco (terre),Robinet/Eau courante,1,1.67,0,0,6,1,0,0,1,7.6,42,,1
+1006,Est,Urbain,6,3,1.0,Femme,58,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,0,0.0,1,1,8,0,1,0,1,8.0,54,11935.0,1
+1007,Boucle du Mouhoun,Urbain,13,8,1.6,Homme,59,Primaire,Tole,Brique de ciment,Puits non protege,1,0.54,0,2,6,0,0,0,0,5.6,37,14859.0,1
+1008,Est,Urbain,6,4,2.0,Homme,33,Primaire,Tole,Brique de ciment,Puits protege/Forage,0,0.0,0,3,4,1,1,0,1,11.5,43,20972.0,1
+1009,Centre-Nord,Rural,6,2,0.5,Femme,38,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,0,0.0,2,2,3,0,1,0,1,7.0,63,35029.0,0
+1010,Est,Rural,8,4,1.0,Femme,39,Primaire,Tole,Dur,Robinet/Eau courante,1,0.3,2,5,6,1,0,0,0,5.1,60,18653.0,0
+1011,Nord,Rural,7,4,1.33,Homme,56,Primaire,Tole,Dur,Puits protege/Forage,0,0.0,1,0,5,1,1,1,0,12.5,44,18223.0,0
+1012,Nord,Rural,10,4,0.67,Homme,47,Aucun,Tole,Banco (terre),Puits non protege,1,0.64,2,4,7,0,0,0,1,17.1,57,32147.0,1
+1013,Est,Rural,6,4,2.0,Homme,46,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,2.39,0,8,6,1,1,1,0,14.1,51,30609.0,1
+1014,Boucle du Mouhoun,Rural,4,2,1.0,Homme,52,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.88,3,2,12,0,0,1,0,17.8,36,57872.0,0
+1015,Est,Rural,4,2,1.0,Homme,37,Primaire,Tole,Brique de ciment,Puits non protege,1,5.8,0,7,4,1,0,1,1,19.7,49,40971.0,0
+1016,Sahel,Urbain,8,5,1.67,Homme,63,Aucun,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,3.94,0,4,7,0,0,1,1,5.0,59,16955.0,1
+1017,Nord,Rural,7,4,1.33,Homme,45,Aucun,Dur (beton/tuile),Banco (terre),Puits non protege,1,1.33,0,3,2,1,1,0,0,6.6,57,19895.0,0
+1018,Centre-Nord,Rural,2,1,1.0,Homme,34,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,2.22,0,1,5,1,1,1,1,4.4,25,37644.0,0
+1019,Sahel,Rural,8,5,1.67,Homme,42,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.91,0,1,7,1,1,0,1,5.2,55,18053.0,1
+1020,Est,Rural,10,4,0.67,Homme,61,Aucun,Tole,Brique de ciment,Puits non protege,1,0.86,4,10,9,0,0,1,0,12.3,52,23250.0,0
+1021,Boucle du Mouhoun,Rural,8,3,0.6,Homme,39,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.5,0,4,5,1,1,1,1,5.3,22,12460.0,0
+1022,Centre-Nord,Rural,6,3,1.0,Femme,57,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,1.66,4,1,4,1,1,1,1,10.9,39,14943.0,0
+1023,Boucle du Mouhoun,Rural,5,3,1.5,Homme,37,Aucun,Dur (beton/tuile),Brique de ciment,Robinet/Eau courante,0,0.0,0,6,2,1,0,1,1,12.7,60,47416.0,0
+1024,Nord,Rural,7,3,0.75,Femme,35,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,2.36,3,4,4,1,1,0,0,,74,29005.0,0
+1025,Nord,Rural,4,2,1.0,Homme,54,Primaire,Tole,Brique de ciment,Puits non protege,1,1.44,1,2,5,0,1,0,0,8.5,26,20271.0,0
+1026,Est,Rural,1,1,0.0,Homme,34,Primaire,Tole,Brique de ciment,Robinet/Eau courante,1,0.76,0,4,6,1,1,0,0,6.9,68,21594.0,0
+1027,Boucle du Mouhoun,Rural,7,3,0.75,Homme,56,Primaire,Tole,Banco (terre),Puits protege/Forage,1,2.22,3,4,7,1,1,0,0,18.4,22,58214.0,0
+1028,Est,Rural,7,3,0.75,Femme,50,Primaire,Chaume/Paille,Dur,Puits non protege,1,2.66,2,6,7,0,0,0,0,4.5,74,20019.0,0
+1029,Centre-Nord,Rural,8,3,0.6,Femme,34,Secondaire,Dur (beton/tuile),Dur,Robinet/Eau courante,1,2.67,3,3,6,0,1,1,0,6.9,48,33290.0,0
+1030,Est,Rural,6,4,2.0,Homme,44,Secondaire,Chaume/Paille,Brique de ciment,Puits non protege,1,2.71,2,5,5,1,1,1,0,8.6,41,39821.0,0
+1031,Nord,Rural,12,6,1.0,Homme,38,Aucun,Chaume/Paille,Dur,Puits non protege,1,2.03,0,6,10,1,1,1,0,8.2,58,51546.0,1
+1032,Centre-Nord,Urbain,8,5,1.67,Homme,50,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.32,0,2,10,1,1,1,1,9.0,37,18343.0,1
+1033,Nord,Urbain,6,2,0.5,Homme,70,Secondaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,5.97,3,6,5,1,1,1,0,6.4,60,14332.0,0
+1034,Boucle du Mouhoun,Urbain,4,2,1.0,Homme,40,Secondaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,0,0.0,0,6,7,0,1,1,1,2.0,50,16372.0,0
+1035,Est,Rural,6,4,2.0,Homme,52,Aucun,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,1.15,0,2,9,1,0,0,0,13.7,3,37383.0,1
+1036,Nord,Rural,7,3,0.75,Femme,45,Aucun,Chaume/Paille,Brique de ciment,Puits non protege,1,2.92,0,3,2,1,1,1,1,6.9,39,65931.0,0
+1037,Est,Rural,8,3,0.6,Homme,45,Aucun,Tole,Dur,Robinet/Eau courante,0,0.0,0,3,10,0,1,1,0,11.0,55,37972.0,0
+1038,Est,Urbain,5,2,0.67,Homme,43,Secondaire,Tole,Brique de ciment,Puits non protege,1,2.4,3,3,6,1,1,1,0,13.6,69,19995.0,0
+1039,Est,Urbain,10,5,1.0,Femme,34,Secondaire,Dur (beton/tuile),Brique de ciment,Puits non protege,1,1.25,0,6,8,1,1,1,1,3.5,57,45914.0,0
+1040,Sahel,Urbain,4,2,1.0,Homme,49,Secondaire,Dur (beton/tuile),Banco (terre),Puits non protege,1,0.6,0,3,6,1,1,1,0,3.6,69,21783.0,0
+1041,Sahel,Urbain,4,3,3.0,Homme,41,Aucun,Tole,Banco (terre),Puits non protege,1,0.6,0,9,7,1,1,1,1,,38,18504.0,1
+1042,Nord,Rural,7,3,0.75,Homme,33,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.14,0,6,7,1,0,0,0,9.2,64,23176.0,1
+1043,Nord,Urbain,6,3,1.0,Femme,58,Aucun,Tole,Brique de ciment,Robinet/Eau courante,0,0.0,4,3,4,1,1,0,0,6.6,64,20713.0,0
+1044,Nord,Urbain,11,4,0.57,Homme,46,Aucun,Dur (beton/tuile),Banco (terre),Robinet/Eau courante,1,0.72,0,3,2,1,1,0,0,8.1,26,19617.0,0
+1045,Sahel,Rural,5,3,1.5,Homme,42,Aucun,Chaume/Paille,Dur,Puits protege/Forage,1,1.27,2,4,3,1,1,1,1,6.8,70,46620.0,0
+1046,Est,Urbain,6,3,1.0,Homme,62,Primaire,Tole,Brique de ciment,Puits non protege,1,1.99,0,7,10,1,1,0,0,5.6,57,21331.0,0
+1047,Sahel,Rural,6,4,2.0,Homme,21,Primaire,Tole,Banco (terre),Robinet/Eau courante,1,1.02,4,2,7,1,0,1,0,6.4,47,13170.0,1
+1048,Centre-Nord,Urbain,6,3,1.0,Homme,62,Aucun,Dur (beton/tuile),Brique de ciment,Puits protege/Forage,0,0.0,0,5,8,0,1,1,1,8.8,47,35019.0,0
+1049,Centre-Nord,Urbain,7,4,1.33,Femme,34,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,2.16,0,2,5,1,0,1,0,11.2,35,17508.0,1
+1050,Sahel,Rural,8,4,1.0,Homme,48,Secondaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.45,7,4,8,1,1,1,0,8.1,62,17764.0,0
+1051,Nord,Urbain,10,5,1.0,Homme,37,Aucun,Tole,Banco (terre),Puits non protege,1,3.23,0,7,3,0,1,1,0,6.2,57,36885.0,1
+1052,Sahel,Rural,10,6,1.5,Homme,33,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.29,0,6,7,1,1,1,1,17.1,61,19410.0,1
+1053,Sahel,Urbain,5,3,1.5,Homme,62,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,2.0,3,5,4,0,1,1,1,7.3,53,21943.0,0
+1054,Sahel,Urbain,7,4,1.33,Homme,69,Aucun,Dur (beton/tuile),Banco (terre),Puits non protege,1,2.19,1,5,8,0,1,0,0,2.4,55,27419.0,0
+1055,Est,Rural,7,4,1.33,Homme,42,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.69,0,3,3,1,0,1,0,5.5,47,23651.0,1
+1056,Nord,Urbain,8,5,1.67,Femme,49,Primaire,Dur (beton/tuile),Dur,Robinet/Eau courante,1,0.94,3,3,7,0,1,1,1,3.1,69,22178.0,0
+1057,Boucle du Mouhoun,Rural,11,5,0.83,Homme,46,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.24,3,3,9,1,1,1,0,8.8,62,9374.0,1
+1058,Sahel,Rural,8,3,0.6,Homme,67,Aucun,Tole,Banco (terre),Puits protege/Forage,1,3.42,0,1,5,1,0,1,0,13.5,55,24890.0,1
+1059,Nord,Rural,10,5,1.0,Homme,18,Secondaire,Dur (beton/tuile),Dur,Puits protege/Forage,1,1.66,0,5,7,1,0,1,1,8.5,50,55606.0,0
+1060,Centre-Nord,Rural,8,5,1.67,Femme,50,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.1,0,7,9,1,1,1,0,6.3,24,35715.0,1
+1061,Boucle du Mouhoun,Rural,7,3,0.75,Femme,36,Primaire,Tole,Banco (terre),Puits protege/Forage,1,0.76,0,3,4,1,1,1,1,8.6,20,22721.0,0
+1062,Nord,Rural,4,2,1.0,Homme,18,Aucun,Dur (beton/tuile),Brique de ciment,Puits protege/Forage,0,0.0,1,6,5,0,1,1,1,8.8,46,33242.0,0
+1063,Sahel,Rural,3,2,2.0,Homme,40,Secondaire,Tole,Dur,Puits non protege,1,1.8,0,3,3,1,1,1,1,7.2,72,35679.0,0
+1064,Nord,Rural,8,3,0.6,Homme,69,Aucun,Tole,Dur,Robinet/Eau courante,1,1.54,3,4,9,1,1,1,0,8.5,41,18418.0,0
+1065,Est,Urbain,4,2,1.0,Homme,36,Primaire,Chaume/Paille,Brique de ciment,Robinet/Eau courante,1,3.26,4,8,5,1,1,0,0,6.2,41,47369.0,0
+1066,Boucle du Mouhoun,Rural,6,2,0.5,Homme,55,Primaire,Tole,Banco (terre),Puits protege/Forage,1,2.37,0,3,6,0,1,0,1,5.3,36,28952.0,0
+1067,Est,Urbain,6,2,0.5,Homme,61,Primaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,0,0.0,0,7,3,1,0,1,0,4.8,31,23376.0,1
+1068,Nord,Rural,8,5,1.67,Femme,45,Secondaire,Tole,Banco (terre),Puits protege/Forage,1,3.15,1,3,11,0,1,1,0,25.5,37,55033.0,0
+1069,Sahel,Rural,9,4,0.8,Homme,47,Aucun,Tole,Brique de ciment,Robinet/Eau courante,1,1.87,0,5,1,1,1,1,0,11.1,56,10607.0,0
+1070,Est,Rural,7,3,0.75,Homme,23,Aucun,Tole,Banco (terre),Puits non protege,1,4.29,0,6,4,1,1,0,0,13.6,44,15849.0,1
+1071,Centre-Nord,Rural,7,4,1.33,Homme,36,Secondaire,Dur (beton/tuile),Banco (terre),Puits non protege,1,0.9,3,8,5,1,1,1,0,17.0,43,35908.0,0
+1072,Nord,Rural,4,2,1.0,Homme,57,Secondaire,Chaume/Paille,Banco (terre),Robinet/Eau courante,1,3.1,0,7,5,1,1,1,0,18.6,42,36437.0,0
+1073,Est,Rural,6,3,1.0,Homme,46,Primaire,Dur (beton/tuile),Brique de ciment,Puits protege/Forage,1,0.24,3,6,5,0,1,1,0,7.7,56,56447.0,0
+1074,Boucle du Mouhoun,Rural,1,0,0.0,Femme,50,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.25,0,3,2,0,0,1,1,5.4,58,9748.0,0
+1075,Centre-Nord,Rural,11,4,0.57,Homme,47,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.56,2,5,9,0,1,1,1,14.6,22,39593.0,1
+1076,Est,Rural,5,3,1.5,Homme,73,Primaire,Tole,Banco (terre),Puits protege/Forage,1,1.45,1,6,10,1,1,1,0,8.8,40,15361.0,1
+1077,Nord,Rural,2,1,1.0,Homme,39,Secondaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,0.21,0,4,9,1,0,0,0,9.0,51,32484.0,0
+1078,Est,Urbain,5,2,0.67,Femme,66,Secondaire,Tole,Brique de ciment,Puits protege/Forage,1,1.41,0,1,6,1,1,1,1,8.0,59,26127.0,0
+1079,Nord,Rural,10,4,0.67,Homme,47,Aucun,Tole,Banco (terre),Puits protege/Forage,1,1.15,2,3,6,1,0,0,1,9.7,54,39437.0,0
+1080,Est,Urbain,6,3,1.0,Homme,67,Primaire,Tole,Banco (terre),Puits non protege,1,5.63,3,4,3,0,1,1,0,6.6,65,24199.0,0
+1081,Sahel,Urbain,7,3,0.75,Homme,29,Primaire,Chaume/Paille,Dur,Puits non protege,0,0.0,4,3,11,1,0,1,1,7.0,29,42402.0,0
+1082,Boucle du Mouhoun,Urbain,2,1,1.0,Homme,47,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.74,0,7,3,1,1,1,0,10.7,59,18534.0,0
+1083,Boucle du Mouhoun,Urbain,6,3,1.0,Homme,40,Secondaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.33,1,3,9,1,0,1,0,7.5,85,25935.0,0
+1084,Centre-Nord,Rural,14,5,0.56,Homme,47,Primaire,Tole,Brique de ciment,Puits protege/Forage,1,4.1,0,5,8,1,1,1,0,6.4,53,29341.0,0
+1085,Boucle du Mouhoun,Rural,7,4,1.33,Homme,61,Aucun,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,2.62,0,4,4,1,0,1,1,6.3,53,57212.0,0
+1086,Centre-Nord,Rural,8,4,1.0,Homme,50,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,3.44,2,2,6,1,0,1,1,7.5,60,39137.0,0
+1087,Centre-Nord,Urbain,8,3,0.6,Femme,61,Aucun,Tole,Banco (terre),Puits non protege,1,1.92,0,2,7,1,1,1,1,7.2,43,29495.0,1
+1088,Centre-Nord,Rural,9,5,1.25,Femme,36,Aucun,Dur (beton/tuile),Dur,Puits protege/Forage,1,0.82,5,2,6,0,0,1,0,6.5,37,35879.0,0
+1089,Est,Rural,13,5,0.62,Femme,34,Primaire,Tole,Banco (terre),Puits non protege,1,0.38,0,3,7,1,0,0,0,6.5,53,43861.0,1
+1090,Est,Urbain,4,2,1.0,Homme,45,Primaire,Chaume/Paille,Banco (terre),Puits protege/Forage,1,2.78,1,4,6,1,0,1,0,6.9,26,31842.0,0
+1091,Sahel,Rural,12,4,0.5,Homme,44,Primaire,Tole,Brique de ciment,Puits non protege,0,0.0,0,4,8,0,1,0,0,7.7,58,16960.0,1
+1092,Nord,Rural,2,1,1.0,Homme,43,Aucun,Chaume/Paille,Banco (terre),Puits protege/Forage,1,0.17,0,5,9,1,0,0,1,17.9,61,35695.0,0
+1093,Est,Urbain,8,5,1.67,Homme,33,Primaire,Chaume/Paille,Brique de ciment,Puits protege/Forage,1,1.19,0,2,5,0,1,1,1,3.8,26,26563.0,1
+1094,Sahel,Rural,9,4,0.8,Homme,61,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,1.54,1,2,7,1,1,1,0,13.0,55,22952.0,1
+1095,Nord,Rural,12,5,0.71,Homme,40,Secondaire,Dur (beton/tuile),Banco (terre),Puits protege/Forage,1,3.8,3,4,10,1,0,0,1,9.1,49,18895.0,0
+1096,Est,Urbain,10,5,1.0,Femme,64,Aucun,Tole,Banco (terre),Robinet/Eau courante,1,1.28,0,3,8,1,0,1,0,2.1,76,34916.0,0
+1097,Sahel,Rural,7,5,2.5,Femme,45,Secondaire,Chaume/Paille,Dur,Puits protege/Forage,1,1.54,1,2,7,0,0,1,0,7.7,73,33874.0,0
+1098,Centre-Nord,Rural,7,3,0.75,Homme,53,Aucun,Tole,Brique de ciment,Puits protege/Forage,1,1.56,2,2,3,1,1,0,0,9.4,65,17501.0,0
+1099,Centre-Nord,Rural,4,2,1.0,Homme,52,Aucun,Dur (beton/tuile),Brique de ciment,Puits non protege,1,3.05,3,6,6,1,0,0,1,7.8,71,,0
+1100,Sahel,Urbain,8,3,0.6,Homme,34,Aucun,Chaume/Paille,Banco (terre),Puits non protege,1,0.84,1,3,8,0,1,0,0,12.9,46,63021.0,0
